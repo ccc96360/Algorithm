@@ -1,5 +1,5 @@
 ## 알고리즘 문제 푼것 정리
-#### [Solved.ac] (https://solved.ac/)
+[Solved.ac] (https://solved.ac/)
 | 번호 | 문제이름 | 난이도 |
 | --- |:---:| ---:|
 1000 | A+B | Bronze V
