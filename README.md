@@ -13,6 +13,6 @@
 1267 | 핸드폰 요금 | Bronze III
 1284 | 집 주소 | Bronze III
 2884 | 알람 시계 | Bronze III
-1942 | 디지털시계 | Bronze III
+1942 | [디지털시계](https://www.acmicpc.net/problem/1942) | Bronze III
 
 
