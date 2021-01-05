@@ -14,5 +14,9 @@
 1284 | [집 주소](https://www.acmicpc.net/problem/1284) | Bronze III
 2884 | [알람 시계](https://www.acmicpc.net/problem/2884) | Bronze III
 1942 | [디지털시계](https://www.acmicpc.net/problem/1942) | Bronze III
+1075 | [나누기](https://www.acmicpc.net/problem/1075) | Bronze II
+1076 | [저항](https://www.acmicpc.net/problem/1076) | Bronze II
+1100 | [저항](https://www.acmicpc.net/problem/1100) | Bronze II
+
 
 
