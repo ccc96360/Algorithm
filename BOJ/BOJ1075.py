@@ -8,5 +8,6 @@ def main():
         a += 1
     res = a % 100
     print(res if res >= 10 else "0"+str(res))
+    
 if __name__ == '__main__':
-    main()
+    main() 

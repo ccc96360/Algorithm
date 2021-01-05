@@ -18,6 +18,5 @@ def main():
     str = info[a][VALUE] + info[b][VALUE]
     res = int(str) * info[c][MUL]
     print(res)
-
 if __name__ == '__main__':
-    main()
+    main() 

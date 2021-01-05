@@ -10,6 +10,5 @@ def main():
                 res += 1
             curState = WHITE if curState == BLACK else BLACK
     print(res)
-
 if __name__ == '__main__':
-    main()
+    main() 
