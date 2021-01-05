@@ -16,7 +16,7 @@
 1942 | [디지털시계](https://www.acmicpc.net/problem/1942) | Bronze III
 1075 | [나누기](https://www.acmicpc.net/problem/1075) | Bronze II
 1076 | [저항](https://www.acmicpc.net/problem/1076) | Bronze II
-1100 | [저항](https://www.acmicpc.net/problem/1100) | Bronze II
+1100 | [하얀 칸](https://www.acmicpc.net/problem/1100) | Bronze II
 1152 | [단어의 개수](https://www.acmicpc.net/problem/1152) | Bronze II
 
 
