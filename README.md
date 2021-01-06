@@ -18,6 +18,7 @@
 1076 | [저항](https://www.acmicpc.net/problem/1076) | Bronze II
 1100 | [하얀 칸](https://www.acmicpc.net/problem/1100) | Bronze II
 1152 | [단어의 개수](https://www.acmicpc.net/problem/1152) | Bronze II
-
+1159 | [농구 경기](https://www.acmicpc.net/problem/1159) | Bronze II
+1225 | [이상한 곱셈](https://www.acmicpc.net/problem/1159) | Bronze II
 
 
