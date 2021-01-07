@@ -22,6 +22,6 @@
 1225 | [이상한 곱셈](https://www.acmicpc.net/problem/1159) | Bronze II
 1032 | [명령 프롬프트](https://www.acmicpc.net/problem/1032) | Bronze I
 1110 | [더하기 사이클](https://www.acmicpc.net/problem/1110) | Bronze I
-1157 | [더하기 사이클](https://www.acmicpc.net/problem/1157) | Bronze I
+1157 | [단어 공부](https://www.acmicpc.net/problem/1157) | Bronze I
 
 
