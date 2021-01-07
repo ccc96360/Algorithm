@@ -1,6 +1,9 @@
 ## 알고리즘 문제 푼것 정리
 
 #### <a href = "https://solved.ac/">Solved.ac</a>
+<details>
+<summary>접기/펼치기</summary>
+<div markdown="1">
 
 | 번호 | 문제이름 | 난이도 |
 | --- |:---:| ---:|
@@ -24,4 +27,5 @@
 1110 | [더하기 사이클](https://www.acmicpc.net/problem/1110) | Bronze I
 1157 | [단어 공부](https://www.acmicpc.net/problem/1157) | Bronze I
 
-
+</div>
+</details>
