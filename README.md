@@ -26,6 +26,8 @@
 1032 | [명령 프롬프트](https://www.acmicpc.net/problem/1032) | Bronze I
 1110 | [더하기 사이클](https://www.acmicpc.net/problem/1110) | Bronze I
 1157 | [단어 공부](https://www.acmicpc.net/problem/1157) | Bronze I
+1236 | [성 지키기](https://www.acmicpc.net/problem/1236) | Bronze I
+1252 | [이진수 덧셈](https://www.acmicpc.net/problem/1252) | Bronze I
 
 </div>
 </details>
