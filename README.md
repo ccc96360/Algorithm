@@ -28,6 +28,8 @@
 1157 | [단어 공부](https://www.acmicpc.net/problem/1157) | Bronze I
 1236 | [성 지키기](https://www.acmicpc.net/problem/1236) | Bronze I
 1252 | [이진수 덧셈](https://www.acmicpc.net/problem/1252) | Bronze I
+1268 | [임시 반장 정하기](https://www.acmicpc.net/problem/1268) | Bronze I
+1259 | [팰린드롬수](https://www.acmicpc.net/problem/1259) | Bronze I
 
 </div>
 </details>
