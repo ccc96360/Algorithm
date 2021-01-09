@@ -16,7 +16,3 @@ def main():
         
 if __name__ == '__main__':
     main()
-
-# N자리 정수를 쪼개서 각각 리스트에 넣는 방법
-#       str = input()
-#       n = [int(i) for i in str]
