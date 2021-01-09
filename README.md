@@ -1,6 +1,7 @@
 ## 알고리즘 문제 푼것 정리
 
 #### <a href = "https://solved.ac/">Solved.ac</a>
+#### Solved.ac [프로필](https://solved.ac/profile/ccc96360)
 <details>
 <summary>접기/펼치기</summary>
 <div markdown="1">
