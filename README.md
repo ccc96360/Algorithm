@@ -37,6 +37,7 @@
 1312 | [소수](https://www.acmicpc.net/problem/1312) | Bronze I
 1308 | [D-Day](https://www.acmicpc.net/problem/1308) | Bronze I
 1357 | [뒤집힌 덧셈](https://www.acmicpc.net/problem/1357) | Bronze I
+1356 | [유진수](https://www.acmicpc.net/problem/1356) | Bronze I
 
 
 </div>
