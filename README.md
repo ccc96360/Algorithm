@@ -7,7 +7,7 @@
 <div markdown="1">
 
 | 번호 | 문제이름 | 난이도 |
-| --- |:---:| ---:|
+| --- |:---:| :---:|
 1000 | [A+B](https://www.acmicpc.net/problem/1000) | Bronze V
 1271 | [엄청난 부자2](https://www.acmicpc.net/problem/1271) | Bronze V
 15727 | [조별과제를 할려는데 조장이 사라졌다.](https://www.acmicpc.net/problem/15727) | Bronze V
@@ -35,6 +35,9 @@
 1259 | [팰린드롬수](https://www.acmicpc.net/problem/1259) | Bronze I
 1296 | [데이트](https://www.acmicpc.net/problem/1296) | Bronze I
 1312 | [소수](https://www.acmicpc.net/problem/1312) | Bronze I
+1308 | [D-Day](https://www.acmicpc.net/problem/1308) | Bronze I
+1357 | [뒤집힌 덧셈](https://www.acmicpc.net/problem/1357) | Bronze I
+
 
 </div>
 </details>
