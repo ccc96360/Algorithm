@@ -40,7 +40,7 @@
 1356 | [유진수](https://www.acmicpc.net/problem/1356) | Bronze I
 1388 | [바닥장식](https://www.acmicpc.net/problem/1388) | Bronze I
 1453 | [피시방 알바](https://www.acmicpc.net/problem/1388) | Bronze I
-2714 | [문자를 받은 승환이](https://www.acmicpc.net/problem/2714) | Silver I
+2714 | [문자를 받은 승환이](https://www.acmicpc.net/problem/2714) | Silver V
 
 </div>
 </details>
