@@ -1,3 +1,4 @@
+#BOJ1388 바닥 장식 20210112
 def main():
     n,m = map(int, input().split(" "))
     li = [input() for _ in range(n)]
