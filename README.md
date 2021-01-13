@@ -3,7 +3,7 @@
 #### <a href = "https://solved.ac/">Solved.ac</a>
 #### Solved.ac [프로필](https://solved.ac/profile/ccc96360)
 <details>
-<summary>접기/펼치기</summary>
+<summary>Bronze</summary>
 <div markdown="1">
 
 | 번호 | 문제이름 | 난이도 |
@@ -42,7 +42,16 @@
 1453 | [피시방 알바](https://www.acmicpc.net/problem/1453) | Bronze I
 1524 | [세준세비](https://www.acmicpc.net/problem/1524) | Bronze I
 1855 | [암호](https://www.acmicpc.net/problem/1855) | Bronze I
-2714 | [문자를 받은 승환이](https://www.acmicpc.net/problem/2714) | Silver V
 
+</div>
+</details>
+
+<details>
+<summary>Silver</summary>
+<div markdown="1">
+
+| 번호 | 문제이름 | 난이도 |
+| --- |:---:| :---:|
+2714 | [문자를 받은 승환이](https://www.acmicpc.net/problem/2714) | Silver V
 </div>
 </details>
