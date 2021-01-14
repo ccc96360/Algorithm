@@ -42,7 +42,7 @@
 1453 | [피시방 알바](https://www.acmicpc.net/problem/1453) | Bronze I
 1524 | [세준세비](https://www.acmicpc.net/problem/1524) | Bronze I
 1855 | [암호](https://www.acmicpc.net/problem/1855) | Bronze I
-
+1977 | [완전제곱수](https://www.acmicpc.net/problem/1977) | Bronze I
 </div>
 </details>
 
