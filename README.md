@@ -43,6 +43,8 @@
 1524 | [세준세비](https://www.acmicpc.net/problem/1524) | Bronze I
 1855 | [암호](https://www.acmicpc.net/problem/1855) | Bronze I
 1977 | [완전제곱수](https://www.acmicpc.net/problem/1977) | Bronze I
+2033 | [반올림](https://www.acmicpc.net/problem/2033) | Bronze I
+11179 | [2진수 뒤집기](https://www.acmicpc.net/problem/11179) | Bronze I
 </div>
 </details>
 
