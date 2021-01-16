@@ -37,6 +37,7 @@ def main():
         if visited[y][x]:
             changeDir(dir)
             x,y = move(bx, by, dir)
+    
     for i in range(n):
         for j in range(n):
             print(li[i][j], end=" " if j != n-1 else "\n")
