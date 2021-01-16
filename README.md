@@ -55,5 +55,7 @@
 | 번호 | 문제이름 | 난이도 |
 | --- |:---:| :---:|
 2714 | [문자를 받은 승환이](https://www.acmicpc.net/problem/2714) | Silver V
+1913 | [달팽이](https://www.acmicpc.net/problem/1913) | Silver V
+1145 | [적어도 대부분의 배수](https://www.acmicpc.net/problem/1145) | Silver V
 </div>
 </details>
