@@ -41,5 +41,6 @@ def main():
         for j in range(n):
             print(li[i][j], end=" " if j != n-1 else "\n")
     print(ret[0],ret[1])
+
 if __name__ == '__main__':
     main()
