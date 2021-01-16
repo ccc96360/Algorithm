@@ -11,5 +11,6 @@ def main():
             break
         s += 1
     print(s)
+
 if __name__ == '__main__':
     main()
