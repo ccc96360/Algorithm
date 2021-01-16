@@ -1,3 +1,4 @@
+#BOJ2714 문자를받은 승환이 20210111
 class Direction:
     RIGHT = 0
     DOWN = 1
