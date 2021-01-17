@@ -58,5 +58,6 @@
 1913 | [달팽이](https://www.acmicpc.net/problem/1913) | Silver V
 1145 | [적어도 대부분의 배수](https://www.acmicpc.net/problem/1145) | Silver V
 8979 | [올림픽](https://www.acmicpc.net/problem/8979) | Silver V
+2818 | [숙제하기 싫을 때](https://www.acmicpc.net/problem/2818) | Silver V
 </div>
 </details>
