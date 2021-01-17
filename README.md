@@ -45,6 +45,7 @@
 1977 | [완전제곱수](https://www.acmicpc.net/problem/1977) | Bronze I
 2033 | [반올림](https://www.acmicpc.net/problem/2033) | Bronze I
 11179 | [2진수 뒤집기](https://www.acmicpc.net/problem/11179) | Bronze I
+통계 | 총합 | 37문제
 </div>
 </details>
 
@@ -59,5 +60,6 @@
 1145 | [적어도 대부분의 배수](https://www.acmicpc.net/problem/1145) | Silver V
 8979 | [올림픽](https://www.acmicpc.net/problem/8979) | Silver V
 2818 | [숙제하기 싫을 때](https://www.acmicpc.net/problem/2818) | Silver V
+통계 | 총합 | 5문제
 </div>
 </details>
