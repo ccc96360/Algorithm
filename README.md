@@ -62,6 +62,8 @@
 2818 | [숙제하기 싫을 때](https://www.acmicpc.net/problem/2818) | Silver V
 18511 | [큰 수 구성하기](https://www.acmicpc.net/problem/18511) | Silver V
 1037 | [약수](https://www.acmicpc.net/problem/1037) | Silver V
-통계 | 총합 | 7문제
+1476 | [날짜 계산](https://www.acmicpc.net/problem/1476) | Silver V
+9324 | [진짜 메시지](https://www.acmicpc.net/problem/9324) | Silver V
+통계 | 총합 | 9문제
 </div>
 </details>
