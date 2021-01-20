@@ -65,6 +65,7 @@
 1476 | [날짜 계산](https://www.acmicpc.net/problem/1476) | Silver V
 9324 | [진짜 메시지](https://www.acmicpc.net/problem/9324) | Silver V
 3724 | [표](https://www.acmicpc.net/problem/3724) | Silver V
-통계 | 총합 | 10문제
+9627 | [문장](https://www.acmicpc.net/problem/9627) | Silver V
+통계 | 총합 | 11문제
 </div>
 </details>
