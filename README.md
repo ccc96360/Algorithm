@@ -66,6 +66,8 @@
 9324 | [진짜 메시지](https://www.acmicpc.net/problem/9324) | Silver V
 3724 | [표](https://www.acmicpc.net/problem/3724) | Silver V
 9627 | [문장](https://www.acmicpc.net/problem/9627) | Silver V
-통계 | 총합 | 11문제
+5555 | [반지](https://www.acmicpc.net/problem/5555) | Silver V
+14626 | [ISBN](https://www.acmicpc.net/problem/14626) | Silver V
+통계 | 총합 | 13문제
 </div>
 </details>
