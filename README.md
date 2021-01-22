@@ -68,6 +68,8 @@
 9627 | [문장](https://www.acmicpc.net/problem/9627) | Silver V
 5555 | [반지](https://www.acmicpc.net/problem/5555) | Silver V
 14626 | [ISBN](https://www.acmicpc.net/problem/14626) | Silver V
-통계 | 총합 | 13문제
+1544 | [사이클 단어](https://www.acmicpc.net/problem/1544) | Silver V
+1812 | [사탕](https://www.acmicpc.net/problem/1812) | Silver V
+통계 | 총합 | 15문제
 </div>
 </details>
