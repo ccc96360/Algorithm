@@ -70,6 +70,8 @@
 14626 | [ISBN](https://www.acmicpc.net/problem/14626) | Silver V
 1544 | [사이클 단어](https://www.acmicpc.net/problem/1544) | Silver V
 1812 | [사탕](https://www.acmicpc.net/problem/1812) | Silver V
-통계 | 총합 | 15문제
+1063 | [킹](https://www.acmicpc.net/problem/1063) | Silver V
+1475 | [방번호](https://www.acmicpc.net/problem/1475) | Silver V
+통계 | 총합 | 17문제
 </div>
 </details>
