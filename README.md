@@ -72,6 +72,8 @@
 1812 | [사탕](https://www.acmicpc.net/problem/1812) | Silver V
 1063 | [킹](https://www.acmicpc.net/problem/1063) | Silver V
 1475 | [방번호](https://www.acmicpc.net/problem/1475) | Silver V
-통계 | 총합 | 17문제
+1316 | [그룹 단어 체커](https://www.acmicpc.net/problem/1316) | Silver V
+2998 | [8진수](https://www.acmicpc.net/problem/2998) | Silver V
+통계 | 총합 | 19문제
 </div>
 </details>
