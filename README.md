@@ -74,6 +74,8 @@
 1475 | [방번호](https://www.acmicpc.net/problem/1475) | Silver V
 1316 | [그룹 단어 체커](https://www.acmicpc.net/problem/1316) | Silver V
 2998 | [8진수](https://www.acmicpc.net/problem/2998) | Silver V
-통계 | 총합 | 19문제
+1181 | [단어 정렬](https://www.acmicpc.net/problem/1181) | Silver V
+7568 | [덩치](https://www.acmicpc.net/problem/7568) | Silver V
+통계 | 총합 | 21문제
 </div>
 </details>
