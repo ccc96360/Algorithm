@@ -76,6 +76,8 @@
 2998 | [8진수](https://www.acmicpc.net/problem/2998) | Silver V
 1181 | [단어 정렬](https://www.acmicpc.net/problem/1181) | Silver V
 7568 | [덩치](https://www.acmicpc.net/problem/7568) | Silver V
-통계 | 총합 | 21문제
+1436 | [영화감독 숌](https://www.acmicpc.net/problem/1436) | Silver V
+11651 | [좌표 정렬하기2](https://www.acmicpc.net/problem/11651) | Silver V
+통계 | 총합 | 23문제
 </div>
 </details>
