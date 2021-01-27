@@ -79,7 +79,8 @@
 1436 | [영화감독 숌](https://www.acmicpc.net/problem/1436) | Silver V
 11651 | [좌표 정렬하기2](https://www.acmicpc.net/problem/11651) | Silver V
 10610 | [30](https://www.acmicpc.net/problem/10610) | Silver V
-11004 | [K번째](https://www.acmicpc.net/problem/11004) | Silver V
-통계 | 총합 | 23문제
+11004 | [K번째 수](https://www.acmicpc.net/problem/11004) | Silver V
+11723 | [집합](https://www.acmicpc.net/problem/11723) | Silver V
+통계 | 총합 | 26문제
 </div>
 </details>
