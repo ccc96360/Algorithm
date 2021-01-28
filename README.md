@@ -80,7 +80,9 @@
 11651 | [좌표 정렬하기2](https://www.acmicpc.net/problem/11651) | Silver V
 10610 | [30](https://www.acmicpc.net/problem/10610) | Silver V
 11004 | [K번째 수](https://www.acmicpc.net/problem/11004) | Silver V
-11723 | [집합](https://www.acmicpc.net/problem/11723) | Silver V
-통계 | 총합 | 26문제
+10867 | [중복 빼고 정렬하기](https://www.acmicpc.net/problem/10867) | Silver V
+2822 | [점수 계산](https://www.acmicpc.net/problem/2822) | Silver V
+1010 | [다리 놓기](https://www.acmicpc.net/problem/1010) | Silver V
+통계 | 총합 | 29문제
 </div>
 </details>
