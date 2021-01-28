@@ -3,7 +3,7 @@ import sys
 input = sys.stdin.readline
 
 def main():
-    li = [list(range(1,31))]; cnt = 9
+    li = [list(range(1,31))]
     for i in range(29):
         tmp = [0]*30
         li.append(tmp)
