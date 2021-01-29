@@ -83,6 +83,8 @@
 10867 | [중복 빼고 정렬하기](https://www.acmicpc.net/problem/10867) | Silver V
 2822 | [점수 계산](https://www.acmicpc.net/problem/2822) | Silver V
 1010 | [다리 놓기](https://www.acmicpc.net/problem/1010) | Silver V
-통계 | 총합 | 29문제
+2503 | [숫자 야구](https://www.acmicpc.net/problem/2503) | Silver V
+7785 | [회사에 있는 사람](https://www.acmicpc.net/problem/7785) | Silver V
+통계 | 총합 | 31문제
 </div>
 </details>
