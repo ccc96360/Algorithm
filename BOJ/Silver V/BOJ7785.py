@@ -12,5 +12,6 @@ def main():
         if value == "enter": li.append(key)
     li.sort(reverse=True)
     for s in li: print(s)
+    
 if __name__ == '__main__':
     main()
