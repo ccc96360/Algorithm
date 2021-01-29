@@ -2,6 +2,7 @@
 import sys
 from itertools import permutations
 input = sys.stdin.readline
+
 def judge(a,b):
     s = 0
     ball = 0
@@ -16,7 +17,6 @@ def judge(a,b):
                     ball += 1
             
     return s,ball
-
 def main():
     num = ["1","2","3","4","5","6","7","8","9"]
     c = list(map("".join, permutations(num,3)))
