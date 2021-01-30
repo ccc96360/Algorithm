@@ -78,6 +78,7 @@
 7568 | [덩치](https://www.acmicpc.net/problem/7568) | Silver V
 1436 | [영화감독 숌](https://www.acmicpc.net/problem/1436) | Silver V
 11651 | [좌표 정렬하기2](https://www.acmicpc.net/problem/11651) | Silver V
+11723 | [집합](https://www.acmicpc.net/problem/11723) | Silver V
 10610 | [30](https://www.acmicpc.net/problem/10610) | Silver V
 11004 | [K번째 수](https://www.acmicpc.net/problem/11004) | Silver V
 10867 | [중복 빼고 정렬하기](https://www.acmicpc.net/problem/10867) | Silver V
@@ -85,6 +86,8 @@
 1010 | [다리 놓기](https://www.acmicpc.net/problem/1010) | Silver V
 2503 | [숫자 야구](https://www.acmicpc.net/problem/2503) | Silver V
 7785 | [회사에 있는 사람](https://www.acmicpc.net/problem/7785) | Silver V
-통계 | 총합 | 31문제
+1065 | [한수](https://www.acmicpc.net/problem/1065) | Silver IV
+10828 | [스택](https://www.acmicpc.net/problem/10828) | Silver IV
+통계 | 총합 | 33문제
 </div>
 </details>
