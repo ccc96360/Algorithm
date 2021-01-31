@@ -88,6 +88,8 @@
 7785 | [회사에 있는 사람](https://www.acmicpc.net/problem/7785) | Silver V
 1065 | [한수](https://www.acmicpc.net/problem/1065) | Silver IV
 10828 | [스택](https://www.acmicpc.net/problem/10828) | Silver IV
-통계 | 총합 | 33문제
+1978 | [소수 찾기](https://www.acmicpc.net/problem/1978) | Silver IV
+9012 | [괄호](https://www.acmicpc.net/problem/9012) | Silver IV
+통계 | 총합 | 35문제
 </div>
 </details>
