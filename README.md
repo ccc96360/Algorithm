@@ -90,6 +90,8 @@
 10828 | [스택](https://www.acmicpc.net/problem/10828) | Silver IV
 1978 | [소수 찾기](https://www.acmicpc.net/problem/1978) | Silver IV
 9012 | [괄호](https://www.acmicpc.net/problem/9012) | Silver IV
-통계 | 총합 | 35문제
+1026 | [보물](https://www.acmicpc.net/problem/1026) | Silver IV
+1120 | [문자열](https://www.acmicpc.net/problem/1120) | Silver IV
+통계 | 총합 | 37문제
 </div>
 </details>
