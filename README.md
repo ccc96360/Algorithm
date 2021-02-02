@@ -94,6 +94,8 @@
 1120 | [문자열](https://www.acmicpc.net/problem/1120) | Silver IV
 1205 | [등수 구하기](https://www.acmicpc.net/problem/1205) | Silver IV
 1049 | [기타줄](https://www.acmicpc.net/problem/1049) | Silver IV
-통계 | 총합 | 39문제
+1213 | [팰린드롬 만들기](https://www.acmicpc.net/problem/1213) | Silver IV
+1235 | [학생 번호](https://www.acmicpc.net/problem/1235) | Silver IV
+통계 | 총합 | 41문제
 </div>
 </details>
