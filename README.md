@@ -92,6 +92,8 @@
 9012 | [괄호](https://www.acmicpc.net/problem/9012) | Silver IV
 1026 | [보물](https://www.acmicpc.net/problem/1026) | Silver IV
 1120 | [문자열](https://www.acmicpc.net/problem/1120) | Silver IV
-통계 | 총합 | 37문제
+1205 | [등수 구하기](https://www.acmicpc.net/problem/1205) | Silver IV
+1049 | [기타줄](https://www.acmicpc.net/problem/1049) | Silver IV
+통계 | 총합 | 39문제
 </div>
 </details>
