@@ -98,6 +98,8 @@
 1235 | [학생 번호](https://www.acmicpc.net/problem/1235) | Silver IV
 1244 | [스위치 켜고 끄기](https://www.acmicpc.net/problem/1244) | Silver IV
 1292 | [쉽게 푸는 문제](https://www.acmicpc.net/problem/1292) | Silver IV
-통계 | 총합 | 43문제
+1302 | [베스트셀러](https://www.acmicpc.net/problem/1302) | Silver IV
+1337 | [올바른 배열](https://www.acmicpc.net/problem/1337) | Silver IV
+통계 | 총합 | 45문제
 </div>
 </details>
