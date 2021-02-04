@@ -96,6 +96,8 @@
 1049 | [기타줄](https://www.acmicpc.net/problem/1049) | Silver IV
 1213 | [팰린드롬 만들기](https://www.acmicpc.net/problem/1213) | Silver IV
 1235 | [학생 번호](https://www.acmicpc.net/problem/1235) | Silver IV
-통계 | 총합 | 41문제
+1244 | [스위치 켜고 끄기](https://www.acmicpc.net/problem/1244) | Silver IV
+1292 | [쉽게 푸는 문제](https://www.acmicpc.net/problem/1292) | Silver IV
+통계 | 총합 | 43문제
 </div>
 </details>
