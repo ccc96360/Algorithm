@@ -101,6 +101,8 @@
 1302 | [베스트셀러](https://www.acmicpc.net/problem/1302) | Silver IV
 1337 | [올바른 배열](https://www.acmicpc.net/problem/1337) | Silver IV
 1343 | [폴리오미노](https://www.acmicpc.net/problem/1343) | Silver IV
-통계 | 총합 | 46문제
+1487 | [물건팔기](https://www.acmicpc.net/problem/1487) | Silver IV
+1543 | [문서 검색](https://www.acmicpc.net/problem/1543) | Silver IV
+통계 | 총합 | 48문제
 </div>
 </details>
