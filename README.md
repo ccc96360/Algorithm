@@ -103,6 +103,8 @@
 1343 | [폴리오미노](https://www.acmicpc.net/problem/1343) | Silver IV
 1487 | [물건팔기](https://www.acmicpc.net/problem/1487) | Silver IV
 1543 | [문서 검색](https://www.acmicpc.net/problem/1543) | Silver IV
-통계 | 총합 | 48문제
+1764 | [듣보잡](https://www.acmicpc.net/problem/1764) | Silver IV
+1817 | [짐 챙기는 숌](https://www.acmicpc.net/problem/1817) | Silver IV
+통계 | 총합 | 50문제
 </div>
 </details>
