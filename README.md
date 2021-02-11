@@ -104,10 +104,12 @@
 1487 | [물건팔기](https://www.acmicpc.net/problem/1487) | Silver IV
 1543 | [문서 검색](https://www.acmicpc.net/problem/1543) | Silver IV
 1764 | [듣보잡](https://www.acmicpc.net/problem/1764) | Silver IV
+2597 | [줄자접기](https://www.acmicpc.net/problem/2597) | Silver IV
 1817 | [짐 챙기는 숌](https://www.acmicpc.net/problem/1817) | Silver IV
 1463 | [1로 만들기](https://www.acmicpc.net/problem/1463) | Silver III
 9095 | [1,2,3 더하기](https://www.acmicpc.net/problem/9095) | Silver III
 1003 | [피보나치 함수](https://www.acmicpc.net/problem/1003) | Silver III
-통계 | 총합 | 53문제
+11726 | [2xn 타일링](https://www.acmicpc.net/problem/11726) | Silver III
+통계 | 총합 | 55문제
 </div>
 </details>
