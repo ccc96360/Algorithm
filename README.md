@@ -113,6 +113,9 @@
 11399 | [ATM](https://www.acmicpc.net/problem/11399) | Silver III
 2193 | [이친수](https://www.acmicpc.net/problem/2193) | Silver III
 2606 | [바이러스](https://www.acmicpc.net/problem/2606) | Silver III
-통계 | 총합 | 58문제
+11727 | [2xn 타일링2](https://www.acmicpc.net/problem/11727) | Silver III
+9461 | [파도반 수열](https://www.acmicpc.net/problem/9461) | Silver III
+15649 | [스택 수열](https://www.acmicpc.net/problem/15649) | Silver III
+통계 | 총합 | 61문제
 </div>
 </details>
