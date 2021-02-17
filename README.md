@@ -116,6 +116,8 @@
 11727 | [2xn 타일링2](https://www.acmicpc.net/problem/11727) | Silver III
 9461 | [파도반 수열](https://www.acmicpc.net/problem/9461) | Silver III
 15649 | [스택 수열](https://www.acmicpc.net/problem/15649) | Silver III
-통계 | 총합 | 61문제
+2805 | [나무 자르기](https://www.acmicpc.net/problem/2805) | Silver III
+17390 | [이건 꼭 풀어야 해!](https://www.acmicpc.net/problem/17390) | Silver III
+통계 | 총합 | 63문제
 </div>
 </details>
