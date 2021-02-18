@@ -118,6 +118,9 @@
 15649 | [스택 수열](https://www.acmicpc.net/problem/15649) | Silver III
 2805 | [나무 자르기](https://www.acmicpc.net/problem/2805) | Silver III
 17390 | [이건 꼭 풀어야 해!](https://www.acmicpc.net/problem/17390) | Silver III
-통계 | 총합 | 63문제
+10799 | [쇠 막대기](https://www.acmicpc.net/problem/10799) | Silver III
+1904 | [01타일](https://www.acmicpc.net/problem/1904) | Silver III
+1270 | [전쟁-땅따먹기](https://www.acmicpc.net/problem/1270) | Silver III
+통계 | 총합 | 66문제
 </div>
 </details>
