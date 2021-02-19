@@ -121,6 +121,8 @@
 10799 | [쇠 막대기](https://www.acmicpc.net/problem/10799) | Silver III
 1904 | [01타일](https://www.acmicpc.net/problem/1904) | Silver III
 1270 | [전쟁-땅따먹기](https://www.acmicpc.net/problem/1270) | Silver III
-통계 | 총합 | 66문제
+1676 | [팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676) | Silver III
+1699 | [제곱수의 합](https://www.acmicpc.net/problem/1699) | Silver III
+통계 | 총합 | 68문제
 </div>
 </details>
