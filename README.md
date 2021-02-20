@@ -123,6 +123,8 @@
 1270 | [전쟁-땅따먹기](https://www.acmicpc.net/problem/1270) | Silver III
 1676 | [팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676) | Silver III
 1699 | [제곱수의 합](https://www.acmicpc.net/problem/1699) | Silver III
-통계 | 총합 | 68문제
+1406 | [에디터](https://www.acmicpc.net/problem/1406) | Silver III
+2003 | [수들의 합 2](https://www.acmicpc.net/problem/2003) | Silver III
+통계 | 총합 | 70문제
 </div>
 </details>
