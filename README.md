@@ -125,6 +125,10 @@
 1699 | [제곱수의 합](https://www.acmicpc.net/problem/1699) | Silver III
 1406 | [에디터](https://www.acmicpc.net/problem/1406) | Silver III
 2003 | [수들의 합 2](https://www.acmicpc.net/problem/2003) | Silver III
-통계 | 총합 | 70문제
+10974 | [모든 순열](https://www.acmicpc.net/problem/10974) | Silver III
+2630 | [색종이 만들기](https://www.acmicpc.net/problem/2630) | Silver III
+11659 | [구간 합 구하기 4](https://www.acmicpc.net/problem/11659) | Silver III
+1057 | [토너먼트](https://www.acmicpc.net/problem/1057) | Silver III
+통계 | 총합 | 74문제
 </div>
 </details>
