@@ -50,7 +50,7 @@
 </details>
 
 <details>
-<summary>Silver</summary>
+<summary>SilverV ~ SilverIII</summary>
 <div markdown="1">
 
 | 번호 | 문제이름 | 난이도 |
@@ -130,5 +130,19 @@
 11659 | [구간 합 구하기 4](https://www.acmicpc.net/problem/11659) | Silver III
 1057 | [토너먼트](https://www.acmicpc.net/problem/1057) | Silver III
 통계 | 총합 | 74문제
+</div>
+</details>
+<details>
+
+<summary>SilverII ~ SilverI</summary>
+<div markdown="1">
+
+| 번호 | 문제이름 | 난이도 |
+| --- |:---:| :---:|
+1260 | [DFS와 BFS](https://www.acmicpc.net/problem/1260) | Silver II
+1929 | [소수 구하기](https://www.acmicpc.net/problem/1929) | Silver II
+11053 | [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) | Silver II
+
+통계 | 총합 | 3문제
 </div>
 </details>
