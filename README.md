@@ -144,7 +144,10 @@
 1260 | [DFS와 BFS](https://www.acmicpc.net/problem/1260) | Silver II
 1929 | [소수 구하기](https://www.acmicpc.net/problem/1929) | Silver II
 11053 | [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) | Silver II
-통계 | 총합 | 3문제
+11729 | [하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729) | Silver II
+1012 | [유기농 배추](https://www.acmicpc.net/problem/1012) | Silver II
+1912 | [연속합](https://www.acmicpc.net/problem/1912) | Silver II
+통계 | 총합 | 6문제
 </div>
 </details>
 </details>
