@@ -147,7 +147,10 @@
 11729 | [하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729) | Silver II
 1012 | [유기농 배추](https://www.acmicpc.net/problem/1012) | Silver II
 1912 | [연속합](https://www.acmicpc.net/problem/1912) | Silver II
-통계 | 총합 | 6문제
+11724 | [연결 요소의 개수](https://www.acmicpc.net/problem/11724) | Silver II
+1931 | [회의실 배정](https://www.acmicpc.net/problem/1931) | Silver II
+9465 | [스티커](https://www.acmicpc.net/problem/9465) | Silver II
+통계 | 총합 | 9문제
 </div>
 </details>
 </details>
