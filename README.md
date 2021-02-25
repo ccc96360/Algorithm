@@ -150,7 +150,9 @@
 11724 | [연결 요소의 개수](https://www.acmicpc.net/problem/11724) | Silver II
 1931 | [회의실 배정](https://www.acmicpc.net/problem/1931) | Silver II
 9465 | [스티커](https://www.acmicpc.net/problem/9465) | Silver II
-통계 | 총합 | 9문제
+4948 | [베르트랑 공준](https://www.acmicpc.net/problem/4948) | Silver II
+6603 | [로또](https://www.acmicpc.net/problem/6603) | Silver II
+통계 | 총합 | 11문제
 </div>
 </details>
 </details>
