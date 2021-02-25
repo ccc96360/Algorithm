@@ -152,7 +152,8 @@
 9465 | [스티커](https://www.acmicpc.net/problem/9465) | Silver II
 4948 | [베르트랑 공준](https://www.acmicpc.net/problem/4948) | Silver II
 6603 | [로또](https://www.acmicpc.net/problem/6603) | Silver II
-통계 | 총합 | 11문제
+4963 | [섬의 개수](https://www.acmicpc.net/problem/4963) | Silver II
+통계 | 총합 | 12문제
 </div>
 </details>
 </details>
