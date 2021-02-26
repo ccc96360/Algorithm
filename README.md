@@ -153,7 +153,10 @@
 4948 | [베르트랑 공준](https://www.acmicpc.net/problem/4948) | Silver II
 6603 | [로또](https://www.acmicpc.net/problem/6603) | Silver II
 4963 | [섬의 개수](https://www.acmicpc.net/problem/4963) | Silver II
-통계 | 총합 | 12문제
+1182 | [부분수열의 합](https://www.acmicpc.net/problem/1182) | Silver II
+1541 | [잃어버린 괄호](https://www.acmicpc.net/problem/1541) | Silver II
+11055 | [가장 큰 증가 부분 수열](https://www.acmicpc.net/problem/11055) | Silver II
+통계 | 총합 | 15문제
 </div>
 </details>
 </details>
