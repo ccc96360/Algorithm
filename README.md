@@ -156,7 +156,12 @@
 1182 | [부분수열의 합](https://www.acmicpc.net/problem/1182) | Silver II
 1541 | [잃어버린 괄호](https://www.acmicpc.net/problem/1541) | Silver II
 11055 | [가장 큰 증가 부분 수열](https://www.acmicpc.net/problem/11055) | Silver II
-통계 | 총합 | 15문제
+7562 | [나이트의 이동](https://www.acmicpc.net/problem/7562) | Silver II
+11722 | [가장 긴 감소하는 부분 수열](https://www.acmicpc.net/problem/11722) | Silver II
+11279 | [최대 힙](https://www.acmicpc.net/problem/11279) | Silver II
+1780 | [종이의 개수](https://www.acmicpc.net/problem/1780) | Silver II
+10819 | [차이를 최대로](https://www.acmicpc.net/problem/10819) | Silver II
+통계 | 총합 | 20문제
 </div>
 </details>
 </details>
