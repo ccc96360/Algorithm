@@ -161,7 +161,12 @@
 11279 | [최대 힙](https://www.acmicpc.net/problem/11279) | Silver II
 1780 | [종이의 개수](https://www.acmicpc.net/problem/1780) | Silver II
 10819 | [차이를 최대로](https://www.acmicpc.net/problem/10819) | Silver II
-통계 | 총합 | 20문제
+2644 | [촌수계산](https://www.acmicpc.net/problem/2644) | Silver II
+11725 | [트리의 부모 찾기](https://www.acmicpc.net/problem/11725) | Silver II
+1890 | [점프](https://www.acmicpc.net/problem/1890) | Silver II
+10971 | [외판원 순회 2](https://www.acmicpc.net/problem/10971) | Silver II
+5430 | [AC](https://www.acmicpc.net/problem/5430) | Silver II
+통계 | 총합 | 25문제
 </div>
 </details>
 </details>
