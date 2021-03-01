@@ -166,7 +166,10 @@
 1890 | [점프](https://www.acmicpc.net/problem/1890) | Silver II
 10971 | [외판원 순회 2](https://www.acmicpc.net/problem/10971) | Silver II
 5430 | [AC](https://www.acmicpc.net/problem/5430) | Silver II
-통계 | 총합 | 25문제
+2178 | [미로탐색](https://www.acmicpc.net/problem/2178) | Silver I
+1149 | [RGB거리](https://www.acmicpc.net/problem/1149) | Silver I
+2667 | [단지번호붙이기](https://www.acmicpc.net/problem/2667) | Silver I
+통계 | 총합 | 28문제
 </div>
 </details>
 </details>
