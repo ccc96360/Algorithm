@@ -172,7 +172,11 @@
 2178 | [미로탐색](https://www.acmicpc.net/problem/2178) | Silver I
 1149 | [RGB거리](https://www.acmicpc.net/problem/1149) | Silver I
 2667 | [단지번호붙이기](https://www.acmicpc.net/problem/2667) | Silver I
-통계 | 총합 | 28문제
+11047 | [동전 0](https://www.acmicpc.net/problem/11047) | Silver I
+1932 | [정수 삼각형](https://www.acmicpc.net/problem/1932) | Silver I
+7576 | [토마토](https://www.acmicpc.net/problem/7576) | Silver I
+1697 | [숨바꼭질](https://www.acmicpc.net/problem/1697) | Silver I
+통계 | 총합 | 32문제
 </div>
 </details>
 </details>
