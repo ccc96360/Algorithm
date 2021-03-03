@@ -176,7 +176,9 @@
 1932 | [정수 삼각형](https://www.acmicpc.net/problem/1932) | Silver I
 7576 | [토마토](https://www.acmicpc.net/problem/7576) | Silver I
 1697 | [숨바꼭질](https://www.acmicpc.net/problem/1697) | Silver I
-통계 | 총합 | 32문제
+2156 | [포도주 시식](https://www.acmicpc.net/problem/2156) | Silver I
+10844 | [쉬운 계단 수](https://www.acmicpc.net/problem/10844) | Silver I
+통계 | 총합 | 34문제
 </div>
 </details>
 </details>
