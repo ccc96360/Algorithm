@@ -178,7 +178,10 @@
 1697 | [숨바꼭질](https://www.acmicpc.net/problem/1697) | Silver I
 2156 | [포도주 시식](https://www.acmicpc.net/problem/2156) | Silver I
 10844 | [쉬운 계단 수](https://www.acmicpc.net/problem/10844) | Silver I
-통계 | 총합 | 34문제
+11052 | [카드 구매하기](https://www.acmicpc.net/problem/11052) | Silver I
+14888 | [연산자 끼워넣기](https://www.acmicpc.net/problem/14888) | Silver I
+1011 | [Fly me to the Alpha Centauri](https://www.acmicpc.net/problem/1011) | Silver I
+통계 | 총합 | 37문제
 </div>
 </details>
 </details>
