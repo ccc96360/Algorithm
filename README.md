@@ -181,7 +181,10 @@
 11052 | [카드 구매하기](https://www.acmicpc.net/problem/11052) | Silver I
 14888 | [연산자 끼워넣기](https://www.acmicpc.net/problem/14888) | Silver I
 1011 | [Fly me to the Alpha Centauri](https://www.acmicpc.net/problem/1011) | Silver I
-통계 | 총합 | 37문제
+11057 | [오르막 수](https://www.acmicpc.net/problem/11057) | Silver I
+1991 | [트리 순회](https://www.acmicpc.net/problem/1991) | Silver I
+2293 | [동전 1](https://www.acmicpc.net/problem/2293) | Silver I
+통계 | 총합 | 40문제
 </div>
 </details>
 </details>
