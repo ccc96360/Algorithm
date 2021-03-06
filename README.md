@@ -184,7 +184,10 @@
 11057 | [오르막 수](https://www.acmicpc.net/problem/11057) | Silver I
 1991 | [트리 순회](https://www.acmicpc.net/problem/1991) | Silver I
 2293 | [동전 1](https://www.acmicpc.net/problem/2293) | Silver I
-통계 | 총합 | 40문제
+2447 | [별 찍기-10](https://www.acmicpc.net/problem/2447) | Silver I
+11403 | [경로 찾기](https://www.acmicpc.net/problem/11403) | Silver I
+9020 | [골드바흐의 추측](https://www.acmicpc.net/problem/9020) | Silver I
+통계 | 총합 | 43문제
 </div>
 </details>
 </details>
