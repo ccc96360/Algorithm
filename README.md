@@ -187,7 +187,10 @@
 2447 | [별 찍기-10](https://www.acmicpc.net/problem/2447) | Silver I
 11403 | [경로 찾기](https://www.acmicpc.net/problem/11403) | Silver I
 9020 | [골드바흐의 추측](https://www.acmicpc.net/problem/9020) | Silver I
-통계 | 총합 | 43문제
+2468 | [안전 영역](https://www.acmicpc.net/problem/2468) | Silver I
+2583 | [영역 구하기](https://www.acmicpc.net/problem/2583) | Silver I
+1992 | [쿼드트리](https://www.acmicpc.net/problem/1992) | Silver I
+통계 | 총합 | 46문제
 </div>
 </details>
 </details>
