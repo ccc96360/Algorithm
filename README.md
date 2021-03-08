@@ -190,7 +190,11 @@
 2468 | [안전 영역](https://www.acmicpc.net/problem/2468) | Silver I
 2583 | [영역 구하기](https://www.acmicpc.net/problem/2583) | Silver I
 1992 | [쿼드트리](https://www.acmicpc.net/problem/1992) | Silver I
-통계 | 총합 | 46문제
+1927 | [최소 힙](https://www.acmicpc.net/problem/1927) | Silver I
+11051 | [이항 계수2](https://www.acmicpc.net/problem/11051) | Silver I
+2133 | [타일 채우기](https://www.acmicpc.net/problem/2133) | Silver I
+11048 | [이동하기](https://www.acmicpc.net/problem/11048) | Silver I
+통계 | 총합 | 50문제
 </div>
 </details>
 </details>
