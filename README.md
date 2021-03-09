@@ -194,7 +194,10 @@
 11051 | [이항 계수2](https://www.acmicpc.net/problem/11051) | Silver I
 2133 | [타일 채우기](https://www.acmicpc.net/problem/2133) | Silver I
 11048 | [이동하기](https://www.acmicpc.net/problem/11048) | Silver I
-통계 | 총합 | 50문제
+2294 | [동전 2](https://www.acmicpc.net/problem/2294) | Silver I
+14891 | [톱니바퀴](https://www.acmicpc.net/problem/14891) | Silver I
+1629 | [곱셈](https://www.acmicpc.net/problem/1629) | Silver I
+통계 | 총합 | 53문제
 </div>
 </details>
 </details>
