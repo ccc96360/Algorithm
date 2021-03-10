@@ -197,7 +197,9 @@
 2294 | [동전 2](https://www.acmicpc.net/problem/2294) | Silver I
 14891 | [톱니바퀴](https://www.acmicpc.net/problem/14891) | Silver I
 1629 | [곱셈](https://www.acmicpc.net/problem/1629) | Silver I
-통계 | 총합 | 53문제
+6588 | [골드바흐의 추측](https://www.acmicpc.net/problem/6588) | Silver I
+1074 | [Z](https://www.acmicpc.net/problem/1074) | Silver I
+통계 | 총합 | 55문제
 </div>
 </details>
 </details>
