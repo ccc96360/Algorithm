@@ -199,7 +199,9 @@
 1629 | [곱셈](https://www.acmicpc.net/problem/1629) | Silver I
 6588 | [골드바흐의 추측](https://www.acmicpc.net/problem/6588) | Silver I
 1074 | [Z](https://www.acmicpc.net/problem/1074) | Silver I
-통계 | 총합 | 55문제
+1389 | [케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389) | Silver I
+1309 | [동물원](https://www.acmicpc.net/problem/1309) | Silver I
+통계 | 총합 | 57문제
 </div>
 </details>
 </details>
