@@ -205,3 +205,16 @@
 </div>
 </details>
 </details>
+
+
+<details>
+<summary>Gold</summary>
+<div markdown="1">
+
+| 번호 | 문제이름 | 난이도 |
+| --- |:---:| :---:|
+14502 | [연구소](https://www.acmicpc.net/problem/14502) | Gold V
+1753 | [최단경로](https://www.acmicpc.net/problem/1753) | Gold V
+통계 | 총합 | 2문제
+</div>
+</details>
