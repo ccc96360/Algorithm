@@ -215,6 +215,9 @@
 | --- |:---:| :---:|
 14502 | [연구소](https://www.acmicpc.net/problem/14502) | Gold V
 1753 | [최단경로](https://www.acmicpc.net/problem/1753) | Gold V
-통계 | 총합 | 2문제
+14503 | [로봇 청소기](https://www.acmicpc.net/problem/14503) | Gold V
+9251 | [LCS](https://www.acmicpc.net/problem/9251) | Gold V
+1759 | [암호 만들기](https://www.acmicpc.net/problem/1759) | Gold V
+통계 | 총합 | 5문제
 </div>
 </details>
