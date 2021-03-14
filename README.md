@@ -218,6 +218,7 @@
 14503 | [로봇 청소기](https://www.acmicpc.net/problem/14503) | Gold V
 9251 | [LCS](https://www.acmicpc.net/problem/9251) | Gold V
 1759 | [암호 만들기](https://www.acmicpc.net/problem/1759) | Gold V
-통계 | 총합 | 5문제
+14500 | [테트로미노](https://www.acmicpc.net/problem/14500) | Gold V
+통계 | 총합 | 6문제
 </div>
 </details>
