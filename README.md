@@ -219,6 +219,9 @@
 9251 | [LCS](https://www.acmicpc.net/problem/9251) | Gold V
 1759 | [암호 만들기](https://www.acmicpc.net/problem/1759) | Gold V
 14500 | [테트로미노](https://www.acmicpc.net/problem/14500) | Gold V
-통계 | 총합 | 6문제
+15686 | [치킨 배달](https://www.acmicpc.net/problem/15686) | Gold V
+10026 | [적록색약](https://www.acmicpc.net/problem/10026) | Gold V
+3190 | [뱀](https://www.acmicpc.net/problem/3190) | Gold V
+통계 | 총합 | 9문제
 </div>
 </details>
