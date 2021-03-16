@@ -222,6 +222,8 @@
 15686 | [치킨 배달](https://www.acmicpc.net/problem/15686) | Gold V
 10026 | [적록색약](https://www.acmicpc.net/problem/10026) | Gold V
 3190 | [뱀](https://www.acmicpc.net/problem/3190) | Gold V
-통계 | 총합 | 9문제
+14499 | [주사위 굴리기](https://www.acmicpc.net/problem/14499) | Gold V
+12865 | [평범한 배낭](https://www.acmicpc.net/problem/12865) | Gold V
+통계 | 총합 | 11문제
 </div>
 </details>
