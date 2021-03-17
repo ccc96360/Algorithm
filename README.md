@@ -224,6 +224,10 @@
 3190 | [뱀](https://www.acmicpc.net/problem/3190) | Gold V
 14499 | [주사위 굴리기](https://www.acmicpc.net/problem/14499) | Gold V
 12865 | [평범한 배낭](https://www.acmicpc.net/problem/12865) | Gold V
-통계 | 총합 | 11문제
+2225 | [합분해](https://www.acmicpc.net/problem/2225) | Gold V
+1107 | [리모컨](https://www.acmicpc.net/problem/1107) | Gold V
+1916 | [최소비용 구하기](https://www.acmicpc.net/problem/1916) | Gold V
+3055 | [탈출](https://www.acmicpc.net/problem/3055) | Gold V
+통계 | 총합 | 15문제
 </div>
 </details>
