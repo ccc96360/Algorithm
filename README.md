@@ -230,6 +230,10 @@
 3055 | [탈출](https://www.acmicpc.net/problem/3055) | Gold V
 15683 | [감시](https://www.acmicpc.net/problem/15683) | Gold V
 16234 | [인구 이동](https://www.acmicpc.net/problem/16234) | Gold V
-통계 | 총합 | 17문제
+5014 | [스타트링크](https://www.acmicpc.net/problem/5014) | Gold V
+2589 | [보물섬](https://www.acmicpc.net/problem/2589) | Gold V
+1915 | [가장 큰 정사각형](https://www.acmicpc.net/problem/1915) | Gold V
+7662 | [이중 우선순위 큐](https://www.acmicpc.net/problem/7662) | Gold V
+통계 | 총합 | 21문제
 </div>
 </details>
