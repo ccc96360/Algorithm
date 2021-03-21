@@ -234,6 +234,8 @@
 2589 | [보물섬](https://www.acmicpc.net/problem/2589) | Gold V
 1915 | [가장 큰 정사각형](https://www.acmicpc.net/problem/1915) | Gold V
 7662 | [이중 우선순위 큐](https://www.acmicpc.net/problem/7662) | Gold V
-통계 | 총합 | 21문제
+2493 | [탑](https://www.acmicpc.net/problem/2493) | Gold V
+9019 | [DSLR](https://www.acmicpc.net/problem/9019) | Gold V
+통계 | 총합 | 23문제
 </div>
 </details>
