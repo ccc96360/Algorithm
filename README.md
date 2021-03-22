@@ -236,6 +236,9 @@
 7662 | [이중 우선순위 큐](https://www.acmicpc.net/problem/7662) | Gold V
 2493 | [탑](https://www.acmicpc.net/problem/2493) | Gold V
 9019 | [DSLR](https://www.acmicpc.net/problem/9019) | Gold V
-통계 | 총합 | 23문제
+9252 | [LCS2](https://www.acmicpc.net/problem/9252) | Gold V
+17070 | [파이프 옮기기 1](https://www.acmicpc.net/problem/17070) | Gold V
+17069 | [파이프 옮기기 2](https://www.acmicpc.net/problem/17069) | Gold V
+통계 | 총합 | 26문제
 </div>
 </details>
