@@ -239,6 +239,9 @@
 9252 | [LCS2](https://www.acmicpc.net/problem/9252) | Gold V
 17070 | [파이프 옮기기 1](https://www.acmicpc.net/problem/17070) | Gold V
 17069 | [파이프 옮기기 2](https://www.acmicpc.net/problem/17069) | Gold V
-통계 | 총합 | 26문제
+1987 | [알파벳](https://www.acmicpc.net/problem/1987) | Gold IV
+2206 | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) | Gold IV
+2580 | [스도쿠](https://www.acmicpc.net/problem/2580) | Gold IV
+통계 | 총합 | 29문제
 </div>
 </details>
