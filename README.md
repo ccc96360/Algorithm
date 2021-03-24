@@ -242,6 +242,9 @@
 1987 | [알파벳](https://www.acmicpc.net/problem/1987) | Gold IV
 2206 | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) | Gold IV
 2580 | [스도쿠](https://www.acmicpc.net/problem/2580) | Gold IV
-통계 | 총합 | 29문제
+1717 | [집합의 표현](https://www.acmicpc.net/problem/1717) | Gold IV
+1197 | [최소 스패닝 트리](https://www.acmicpc.net/problem/1197) | Gold IV
+1520 | [내리막길](https://www.acmicpc.net/problem/1520) | Gold IV
+통계 | 총합 | 32문제
 </div>
 </details>
