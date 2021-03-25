@@ -245,6 +245,8 @@
 1717 | [집합의 표현](https://www.acmicpc.net/problem/1717) | Gold IV
 1197 | [최소 스패닝 트리](https://www.acmicpc.net/problem/1197) | Gold IV
 1520 | [내리막길](https://www.acmicpc.net/problem/1520) | Gold IV
-통계 | 총합 | 32문제
+1922 | [네트워크 연결](https://www.acmicpc.net/problem/1922) | Gold IV
+16236 | [아기 상어](https://www.acmicpc.net/problem/16236) | Gold IV
+통계 | 총합 | 34문제
 </div>
 </details>
