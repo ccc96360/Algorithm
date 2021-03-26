@@ -111,6 +111,7 @@
 1764 | [듣보잡](https://www.acmicpc.net/problem/1764) | Silver IV
 2597 | [줄자접기](https://www.acmicpc.net/problem/2597) | Silver IV
 1817 | [짐 챙기는 숌](https://www.acmicpc.net/problem/1817) | Silver IV
+1620 | [나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620) | Silver IV
 1463 | [1로 만들기](https://www.acmicpc.net/problem/1463) | Silver III
 9095 | [1,2,3 더하기](https://www.acmicpc.net/problem/9095) | Silver III
 1003 | [피보나치 함수](https://www.acmicpc.net/problem/1003) | Silver III
@@ -169,6 +170,7 @@
 1890 | [점프](https://www.acmicpc.net/problem/1890) | Silver II
 10971 | [외판원 순회 2](https://www.acmicpc.net/problem/10971) | Silver II
 5430 | [AC](https://www.acmicpc.net/problem/5430) | Silver II
+18870 | [좌표 압축](https://www.acmicpc.net/problem/18870) | Silver II
 2178 | [미로탐색](https://www.acmicpc.net/problem/2178) | Silver I
 1149 | [RGB거리](https://www.acmicpc.net/problem/1149) | Silver I
 2667 | [단지번호붙이기](https://www.acmicpc.net/problem/2667) | Silver I
