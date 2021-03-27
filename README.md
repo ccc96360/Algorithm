@@ -252,6 +252,9 @@
 11404 | [플로이드](https://www.acmicpc.net/problem/11404) | Gold IV
 1707 | [이분 그래프](https://www.acmicpc.net/problem/1707) | Gold IV
 2448 | [별 찍기 - 11](https://www.acmicpc.net/problem/2448) | Gold IV
-통계 | 총합 | 37문제
+1261 | [알고스팟](https://www.acmicpc.net/problem/1261) | Gold IV
+2573 | [빙산](https://www.acmicpc.net/problem/2573) | Gold IV
+15685 | [드래곤 커브](https://www.acmicpc.net/problem/15685) | Gold IV
+통계 | 총합 | 40문제
 </div>
 </details>
