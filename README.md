@@ -255,6 +255,8 @@
 1261 | [알고스팟](https://www.acmicpc.net/problem/1261) | Gold IV
 2573 | [빙산](https://www.acmicpc.net/problem/2573) | Gold IV
 15685 | [드래곤 커브](https://www.acmicpc.net/problem/15685) | Gold IV
-통계 | 총합 | 40문제
+1504 | [특정한 최단 경로](https://www.acmicpc.net/problem/1504) | Gold IV
+1806 | [부분합](https://www.acmicpc.net/problem/1806) | Gold IV
+통계 | 총합 | 42문제
 </div>
 </details>
