@@ -1,7 +1,7 @@
 ## 알고리즘 문제 푼것 정리
 
 #### <a href = "https://solved.ac/">Solved.ac</a>
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=ccc96360)](https://solved.ac/ccc96360)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ccc96360)](https://solved.ac/profile/ccc96360)
 
 
 
