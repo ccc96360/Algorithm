@@ -257,6 +257,9 @@
 15685 | [드래곤 커브](https://www.acmicpc.net/problem/15685) | Gold IV
 1504 | [특정한 최단 경로](https://www.acmicpc.net/problem/1504) | Gold IV
 1806 | [부분합](https://www.acmicpc.net/problem/1806) | Gold IV
-통계 | 총합 | 42문제
+2096 | [내려가기](https://www.acmicpc.net/problem/2096) | Gold IV
+9466 | [텀 프로젝트](https://www.acmicpc.net/problem/9466) | Gold IV
+1967 | [트리의 지름](https://www.acmicpc.net/problem/1967) | Gold IV
+통계 | 총합 | 45문제
 </div>
 </details>
