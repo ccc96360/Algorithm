@@ -260,6 +260,8 @@
 2096 | [내려가기](https://www.acmicpc.net/problem/2096) | Gold IV
 9466 | [텀 프로젝트](https://www.acmicpc.net/problem/9466) | Gold IV
 1967 | [트리의 지름](https://www.acmicpc.net/problem/1967) | Gold IV
-통계 | 총합 | 45문제
+15684 | [사다리 조작](https://www.acmicpc.net/problem/15684) | Gold IV
+16235 | [나무 재테크](https://www.acmicpc.net/problem/16235) | Gold IV
+통계 | 총합 | 47문제
 </div>
 </details>
