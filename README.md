@@ -262,6 +262,9 @@
 1967 | [트리의 지름](https://www.acmicpc.net/problem/1967) | Gold IV
 15684 | [사다리 조작](https://www.acmicpc.net/problem/15684) | Gold IV
 16235 | [나무 재테크](https://www.acmicpc.net/problem/16235) | Gold IV
-통계 | 총합 | 47문제
+1339 | [단어 수학](https://www.acmicpc.net/problem/1339) | Gold IV
+1963 | [소수 경로](https://www.acmicpc.net/problem/1963) | Gold IV
+5052 | [전화번호 목록](https://www.acmicpc.net/problem/5052) | Gold IV
+통계 | 총합 | 50문제
 </div>
 </details>
