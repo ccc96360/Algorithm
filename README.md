@@ -265,6 +265,8 @@
 1339 | [단어 수학](https://www.acmicpc.net/problem/1339) | Gold IV
 1963 | [소수 경로](https://www.acmicpc.net/problem/1963) | Gold IV
 5052 | [전화번호 목록](https://www.acmicpc.net/problem/5052) | Gold IV
-통계 | 총합 | 50문제
+14890 | [경사로](https://www.acmicpc.net/problem/14890) | Gold III
+1644 | [소수의 연속합](https://www.acmicpc.net/problem/1644) | Gold III
+통계 | 총합 | 52문제
 </div>
 </details>
