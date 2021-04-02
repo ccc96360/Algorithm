@@ -265,8 +265,11 @@
 1339 | [단어 수학](https://www.acmicpc.net/problem/1339) | Gold IV
 1963 | [소수 경로](https://www.acmicpc.net/problem/1963) | Gold IV
 5052 | [전화번호 목록](https://www.acmicpc.net/problem/5052) | Gold IV
+2056 | [작업](https://www.acmicpc.net/problem/2056) | Gold IV
 14890 | [경사로](https://www.acmicpc.net/problem/14890) | Gold III
 1644 | [소수의 연속합](https://www.acmicpc.net/problem/1644) | Gold III
-통계 | 총합 | 52문제
+11054 | [가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054) | Gold III
+1005 | [ACM Craft](https://www.acmicpc.net/problem/1005) | Gold III
+통계 | 총합 | 55문제
 </div>
 </details>
