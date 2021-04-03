@@ -270,6 +270,8 @@
 1644 | [소수의 연속합](https://www.acmicpc.net/problem/1644) | Gold III
 11054 | [가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054) | Gold III
 1005 | [ACM Craft](https://www.acmicpc.net/problem/1005) | Gold III
+1937 | [욕심쟁이 판다](https://www.acmicpc.net/problem/1937) | Gold III
+1238 | [파티](https://www.acmicpc.net/problem/1238) | Gold III
 통계 | 총합 | 55문제
 </div>
 </details>
