@@ -272,6 +272,8 @@
 1005 | [ACM Craft](https://www.acmicpc.net/problem/1005) | Gold III
 1937 | [욕심쟁이 판다](https://www.acmicpc.net/problem/1937) | Gold III
 1238 | [파티](https://www.acmicpc.net/problem/1238) | Gold III
-통계 | 총합 | 55문제
+11066 | [파일 합치기](https://www.acmicpc.net/problem/11066) | Gold III
+2146 | [다리 만들기](https://www.acmicpc.net/problem/2146) | Gold III
+통계 | 총합 | 57문제
 </div>
 </details>
