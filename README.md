@@ -274,6 +274,8 @@
 1238 | [파티](https://www.acmicpc.net/problem/1238) | Gold III
 11066 | [파일 합치기](https://www.acmicpc.net/problem/11066) | Gold III
 2146 | [다리 만들기](https://www.acmicpc.net/problem/2146) | Gold III
-통계 | 총합 | 59문제
+1167 | [트리의 지름](https://www.acmicpc.net/problem/1167) | Gold III
+11049 | [행렬 곱셈 순서](https://www.acmicpc.net/problem/11049) | Gold III
+통계 | 총합 | 61문제
 </div>
 </details>
