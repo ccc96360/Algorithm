@@ -276,6 +276,9 @@
 2146 | [다리 만들기](https://www.acmicpc.net/problem/2146) | Gold III
 1167 | [트리의 지름](https://www.acmicpc.net/problem/1167) | Gold III
 11049 | [행렬 곱셈 순서](https://www.acmicpc.net/problem/11049) | Gold III
-통계 | 총합 | 61문제
+1300 | [K번째 수](https://www.acmicpc.net/problem/1300) | Gold III
+1516 | [게임 개발](https://www.acmicpc.net/problem/1516) | Gold III
+2437 | [저울](https://www.acmicpc.net/problem/2437) | Gold III
+통계 | 총합 | 64문제
 </div>
 </details>
