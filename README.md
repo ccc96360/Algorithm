@@ -279,6 +279,8 @@
 1300 | [K번째 수](https://www.acmicpc.net/problem/1300) | Gold III
 1516 | [게임 개발](https://www.acmicpc.net/problem/1516) | Gold III
 2437 | [저울](https://www.acmicpc.net/problem/2437) | Gold III
-통계 | 총합 | 64문제
+7579 | [앱](https://www.acmicpc.net/problem/7579) | Gold III
+11437 | [LCA](https://www.acmicpc.net/problem/11437) | Gold III
+통계 | 총합 | 66문제
 </div>
 </details>
