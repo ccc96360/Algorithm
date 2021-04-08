@@ -281,6 +281,8 @@
 2437 | [저울](https://www.acmicpc.net/problem/2437) | Gold III
 7579 | [앱](https://www.acmicpc.net/problem/7579) | Gold III
 11437 | [LCA](https://www.acmicpc.net/problem/11437) | Gold III
-통계 | 총합 | 66문제
+2352 | [반도체 설계](https://www.acmicpc.net/problem/2352) | Gold III
+16637 | [괄호 추가하기](https://www.acmicpc.net/problem/16637) | Gold III
+통계 | 총합 | 68문제
 </div>
 </details>
