@@ -283,6 +283,9 @@
 11437 | [LCA](https://www.acmicpc.net/problem/11437) | Gold III
 2352 | [반도체 설계](https://www.acmicpc.net/problem/2352) | Gold III
 16637 | [괄호 추가하기](https://www.acmicpc.net/problem/16637) | Gold III
-통계 | 총합 | 68문제
+10159 | [괄호 추가하기](https://www.acmicpc.net/problem/10159) | Gold III
+1613 | [괄호 추가하기](https://www.acmicpc.net/problem/1613) | Gold III
+2263 | [괄호 추가하기](https://www.acmicpc.net/problem/2263) | Gold III
+통계 | 총합 | 71문제
 </div>
 </details>
