@@ -286,6 +286,8 @@
 10159 | [저울](https://www.acmicpc.net/problem/10159) | Gold III
 1613 | [역사](https://www.acmicpc.net/problem/1613) | Gold III
 2263 | [트리의 순회](https://www.acmicpc.net/problem/2263) | Gold III
-통계 | 총합 | 71문제
+11779 | [최소비용 구하기 2](https://www.acmicpc.net/problem/11779) | Gold III
+1256 | [사전](https://www.acmicpc.net/problem/1256) | Gold III
+통계 | 총합 | 73문제
 </div>
 </details>
