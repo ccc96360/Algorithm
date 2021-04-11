@@ -288,6 +288,8 @@
 2263 | [트리의 순회](https://www.acmicpc.net/problem/2263) | Gold III
 11779 | [최소비용 구하기 2](https://www.acmicpc.net/problem/11779) | Gold III
 1256 | [사전](https://www.acmicpc.net/problem/1256) | Gold III
-통계 | 총합 | 73문제
+2533 | [사회망 서비스(SNS)](https://www.acmicpc.net/problem/2533) | Gold III
+2143 | [두 배열의 합](https://www.acmicpc.net/problem/2143) | Gold III
+통계 | 총합 | 75문제
 </div>
 </details>
