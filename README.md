@@ -292,6 +292,8 @@
 2143 | [두 배열의 합](https://www.acmicpc.net/problem/2143) | Gold III
 14442 | [벽 부수고 이동하기 2](https://www.acmicpc.net/problem/14442) | Gold III
 1507 | [궁금한 민호](https://www.acmicpc.net/problem/1507) | Gold III
-통계 | 총합 | 77문제
+2252 | [줄 세우기](https://www.acmicpc.net/problem/2252) | Gold II
+13460 | [구슬 탈출2](https://www.acmicpc.net/problem/13460) | Gold II
+통계 | 총합 | 79문제
 </div>
 </details>
