@@ -294,6 +294,8 @@
 1507 | [궁금한 민호](https://www.acmicpc.net/problem/1507) | Gold III
 2252 | [줄 세우기](https://www.acmicpc.net/problem/2252) | Gold II
 13460 | [구슬 탈출2](https://www.acmicpc.net/problem/13460) | Gold II
+12100 | [2048(Easy)](https://www.acmicpc.net/problem/12100) | Gold II
+10942 | [팰린드롬?](https://www.acmicpc.net/problem/10942) | Gold II
 통계 | 총합 | 79문제
 </div>
 </details>
