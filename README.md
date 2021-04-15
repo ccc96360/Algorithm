@@ -266,6 +266,7 @@
 1963 | [소수 경로](https://www.acmicpc.net/problem/1963) | Gold IV
 5052 | [전화번호 목록](https://www.acmicpc.net/problem/5052) | Gold IV
 2056 | [작업](https://www.acmicpc.net/problem/2056) | Gold IV
+14002 | [가장 긴 증가하는 부분 수열 4](https://www.acmicpc.net/problem/14002) | Gold IV
 14890 | [경사로](https://www.acmicpc.net/problem/14890) | Gold III
 1644 | [소수의 연속합](https://www.acmicpc.net/problem/1644) | Gold III
 11054 | [가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054) | Gold III
@@ -296,6 +297,10 @@
 13460 | [구슬 탈출2](https://www.acmicpc.net/problem/13460) | Gold II
 12100 | [2048(Easy)](https://www.acmicpc.net/problem/12100) | Gold II
 10942 | [팰린드롬?](https://www.acmicpc.net/problem/10942) | Gold II
-통계 | 총합 | 79문제
+2749 | [피보나치 수 3](https://www.acmicpc.net/problem/2749) | Gold II
+12015 | [가장 긴 증가하는 부분 수열2](https://www.acmicpc.net/problem/12015) | Gold II
+1766 | [문제집](https://www.acmicpc.net/problem/1766) | Gold II
+1655 | [가운데를 말해요](https://www.acmicpc.net/problem/1655) | Gold II
+통계 | 총합 | 86문제
 </div>
 </details>
