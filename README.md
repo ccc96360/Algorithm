@@ -301,6 +301,8 @@
 12015 | [가장 긴 증가하는 부분 수열2](https://www.acmicpc.net/problem/12015) | Gold II
 1766 | [문제집](https://www.acmicpc.net/problem/1766) | Gold II
 1655 | [가운데를 말해요](https://www.acmicpc.net/problem/1655) | Gold II
-통계 | 총합 | 86문제
+17143 | [낚시왕](https://www.acmicpc.net/problem/17143) | Gold II
+4195 | [친구 네트워크](https://www.acmicpc.net/problem/4195) | Gold II
+통계 | 총합 | 88문제
 </div>
 </details>
