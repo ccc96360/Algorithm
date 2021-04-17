@@ -303,6 +303,8 @@
 1655 | [가운데를 말해요](https://www.acmicpc.net/problem/1655) | Gold II
 17143 | [낚시왕](https://www.acmicpc.net/problem/17143) | Gold II
 4195 | [친구 네트워크](https://www.acmicpc.net/problem/4195) | Gold II
-통계 | 총합 | 88문제
+1202 | [보석 도둑](https://www.acmicpc.net/problem/1202) | Gold II
+1525 | [퍼즐](https://www.acmicpc.net/problem/1525) | Gold II
+통계 | 총합 | 90문제
 </div>
 </details>
