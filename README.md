@@ -203,7 +203,8 @@
 1074 | [Z](https://www.acmicpc.net/problem/1074) | Silver I
 1389 | [케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389) | Silver I
 1309 | [동물원](https://www.acmicpc.net/problem/1309) | Silver I
-통계 | 총합 | 57문제
+16953 | [A->B](https://www.acmicpc.net/problem/16953) | Silver I
+통계 | 총합 | 58문제
 </div>
 </details>
 </details>
