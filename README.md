@@ -306,6 +306,8 @@
 4195 | [친구 네트워크](https://www.acmicpc.net/problem/4195) | Gold II
 1202 | [보석 도둑](https://www.acmicpc.net/problem/1202) | Gold II
 1525 | [퍼즐](https://www.acmicpc.net/problem/1525) | Gold II
-통계 | 총합 | 90문제
+17136 | [색종이 붙이기](https://www.acmicpc.net/problem/17136) | Gold II
+7453 | [합이 0인 네 정수](https://www.acmicpc.net/problem/7453) | Gold II
+통계 | 총합 | 92문제
 </div>
 </details>
