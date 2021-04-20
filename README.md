@@ -308,6 +308,9 @@
 1525 | [퍼즐](https://www.acmicpc.net/problem/1525) | Gold II
 17136 | [색종이 붙이기](https://www.acmicpc.net/problem/17136) | Gold II
 7453 | [합이 0인 네 정수](https://www.acmicpc.net/problem/7453) | Gold II
-통계 | 총합 | 92문제
+2623 | [음악프로그램](https://www.acmicpc.net/problem/2623) | Gold II
+12738 | [가장 긴 증가하는 부분수열3](https://www.acmicpc.net/problem/12738) | Gold II
+2250 | [트리의 높이와 너비](https://www.acmicpc.net/problem/2250) | Gold II
+통계 | 총합 | 95문제
 </div>
 </details>
