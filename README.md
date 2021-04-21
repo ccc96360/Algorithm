@@ -313,6 +313,7 @@
 2250 | [트리의 높이와 너비](https://www.acmicpc.net/problem/2250) | Gold II
 17472 | [다리 만들기 2](https://www.acmicpc.net/problem/17472) | Gold II
 10775 | [공항](https://www.acmicpc.net/problem/10775) | Gold II
-통계 | 총합 | 97문제
+3109 | [빵집](https://www.acmicpc.net/problem/3109) | Gold II
+통계 | 총합 | 98문제
 </div>
 </details>
