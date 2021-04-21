@@ -311,6 +311,8 @@
 2623 | [음악프로그램](https://www.acmicpc.net/problem/2623) | Gold II
 12738 | [가장 긴 증가하는 부분수열3](https://www.acmicpc.net/problem/12738) | Gold II
 2250 | [트리의 높이와 너비](https://www.acmicpc.net/problem/2250) | Gold II
-통계 | 총합 | 95문제
+17472 | [다리 만들기 2](https://www.acmicpc.net/problem/17472) | Gold II
+10775 | [공항](https://www.acmicpc.net/problem/10775) | Gold II
+통계 | 총합 | 97문제
 </div>
 </details>
