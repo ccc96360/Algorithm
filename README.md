@@ -314,6 +314,8 @@
 17472 | [다리 만들기 2](https://www.acmicpc.net/problem/17472) | Gold II
 10775 | [공항](https://www.acmicpc.net/problem/10775) | Gold II
 3109 | [빵집](https://www.acmicpc.net/problem/3109) | Gold II
-통계 | 총합 | 98문제
+17837 | [새로운 게임 2](https://www.acmicpc.net/problem/17837) | Gold II
+2629 | [양팔저울](https://www.acmicpc.net/problem/2629) | Gold II
+통계 | 총합 | 100문제
 </div>
 </details>
