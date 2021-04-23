@@ -316,6 +316,9 @@
 3109 | [빵집](https://www.acmicpc.net/problem/3109) | Gold II
 17837 | [새로운 게임 2](https://www.acmicpc.net/problem/17837) | Gold II
 2629 | [양팔저울](https://www.acmicpc.net/problem/2629) | Gold II
-통계 | 총합 | 100문제
+2629 | [통나무 옮기기](https://www.acmicpc.net/problem/2629) | Gold II
+10253 | [헨리](https://www.acmicpc.net/problem/10253) | Gold II
+2014 | [소수의 곱](https://www.acmicpc.net/problem/2014) | Gold II
+통계 | 총합 | 103문제
 </div>
 </details>
