@@ -319,6 +319,9 @@
 2629 | [통나무 옮기기](https://www.acmicpc.net/problem/2629) | Gold II
 10253 | [헨리](https://www.acmicpc.net/problem/10253) | Gold II
 2014 | [소수의 곱](https://www.acmicpc.net/problem/2014) | Gold II
+2042 | [구간 합 구하기](https://www.acmicpc.net/problem/2042) | Gold I
+2357 | [최솟값과 최댓값](https://www.acmicpc.net/problem/2357) | Gold I
+5676 | [음주 코딩](https://www.acmicpc.net/problem/5676) | Gold I
 통계 | 총합 | 103문제
 </div>
 </details>
