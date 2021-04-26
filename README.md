@@ -322,6 +322,8 @@
 2042 | [구간 합 구하기](https://www.acmicpc.net/problem/2042) | Gold I
 2357 | [최솟값과 최댓값](https://www.acmicpc.net/problem/2357) | Gold I
 5676 | [음주 코딩](https://www.acmicpc.net/problem/5676) | Gold I
-통계 | 총합 | 103문제
+1016 | [제곱 ㄴㄴ수](https://www.acmicpc.net/problem/1016) | Gold I
+2098 | [외판원 순회](https://www.acmicpc.net/problem/2098) | Gold I
+통계 | 총합 | 105문제
 </div>
 </details>
