@@ -324,7 +324,7 @@
 5676 | [음주 코딩](https://www.acmicpc.net/problem/5676) | Gold I
 1016 | [제곱 ㄴㄴ수](https://www.acmicpc.net/problem/1016) | Gold I
 2098 | [외판원 순회](https://www.acmicpc.net/problem/2098) | Gold I
-1786 | [외판원 순회](https://www.acmicpc.net/problem/1786) | Gold I
+1786 | [찾기](https://www.acmicpc.net/problem/1786) | Gold I
 16900 | [이름 정하기](https://www.acmicpc.net/problem/16900) | Gold I
 16570 | [앞뒤가 맞는 수열](https://www.acmicpc.net/problem/16570) | Gold I
 통계 | 총합 | 108문제
