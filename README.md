@@ -327,6 +327,8 @@
 1786 | [찾기](https://www.acmicpc.net/problem/1786) | Gold I
 16900 | [이름 정하기](https://www.acmicpc.net/problem/16900) | Gold I
 16570 | [앞뒤가 맞는 수열](https://www.acmicpc.net/problem/16570) | Gold I
-통계 | 총합 | 108문제
+10868 | [최솟 값](https://www.acmicpc.net/problem/10868) | Gold I
+2887 | [행성 터널](https://www.acmicpc.net/problem/2887) | Gold I
+통계 | 총합 | 110문제
 </div>
 </details>
