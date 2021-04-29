@@ -329,6 +329,7 @@
 16570 | [앞뒤가 맞는 수열](https://www.acmicpc.net/problem/16570) | Gold I
 10868 | [최솟 값](https://www.acmicpc.net/problem/10868) | Gold I
 2887 | [행성 터널](https://www.acmicpc.net/problem/2887) | Gold I
-통계 | 총합 | 110문제
+11505 | [구간 곱 구하기](https://www.acmicpc.net/problem/11505) | Gold I
+통계 | 총합 | 111문제
 </div>
 </details>
