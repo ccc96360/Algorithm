@@ -330,6 +330,8 @@
 10868 | [최솟 값](https://www.acmicpc.net/problem/10868) | Gold I
 2887 | [행성 터널](https://www.acmicpc.net/problem/2887) | Gold I
 11505 | [구간 곱 구하기](https://www.acmicpc.net/problem/11505) | Gold I
-통계 | 총합 | 111문제
+11401 | [이항 계수3](https://www.acmicpc.net/problem/11401) | Gold I
+1700 | [멀티탭 스케줄링](https://www.acmicpc.net/problem/1700) | Gold I
+통계 | 총합 | 113문제
 </div>
 </details>
