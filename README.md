@@ -332,6 +332,8 @@
 11505 | [구간 곱 구하기](https://www.acmicpc.net/problem/11505) | Gold I
 11401 | [이항 계수3](https://www.acmicpc.net/problem/11401) | Gold I
 1700 | [멀티탭 스케줄링](https://www.acmicpc.net/problem/1700) | Gold I
-통계 | 총합 | 113문제
+2169 | [로봇 조종하기](https://www.acmicpc.net/problem/2169) | Gold I
+2568 | [전깃줄 - 2](https://www.acmicpc.net/problem/2568) | Gold I
+통계 | 총합 | 115문제
 </div>
 </details>
