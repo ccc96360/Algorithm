@@ -242,6 +242,7 @@
 9252 | [LCS2](https://www.acmicpc.net/problem/9252) | Gold V
 17070 | [파이프 옮기기 1](https://www.acmicpc.net/problem/17070) | Gold V
 17069 | [파이프 옮기기 2](https://www.acmicpc.net/problem/17069) | Gold V
+2812 | [크게 만들기](https://www.acmicpc.net/problem/2812) | Gold V
 1987 | [알파벳](https://www.acmicpc.net/problem/1987) | Gold IV
 2206 | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) | Gold IV
 2580 | [스도쿠](https://www.acmicpc.net/problem/2580) | Gold IV
@@ -268,6 +269,7 @@
 5052 | [전화번호 목록](https://www.acmicpc.net/problem/5052) | Gold IV
 2056 | [작업](https://www.acmicpc.net/problem/2056) | Gold IV
 14002 | [가장 긴 증가하는 부분 수열 4](https://www.acmicpc.net/problem/14002) | Gold IV
+1715 | [카드 정렬하기](https://www.acmicpc.net/problem/1715) | Gold IV
 14890 | [경사로](https://www.acmicpc.net/problem/14890) | Gold III
 1644 | [소수의 연속합](https://www.acmicpc.net/problem/1644) | Gold III
 11054 | [가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054) | Gold III
