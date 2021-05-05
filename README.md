@@ -296,6 +296,8 @@
 2143 | [두 배열의 합](https://www.acmicpc.net/problem/2143) | Gold III
 14442 | [벽 부수고 이동하기 2](https://www.acmicpc.net/problem/14442) | Gold III
 1507 | [궁금한 민호](https://www.acmicpc.net/problem/1507) | Gold III
+8980 | [택배](https://www.acmicpc.net/problem/8980) | Gold III
+13904 | [과제](https://www.acmicpc.net/problem/13904) | Gold III
 2252 | [줄 세우기](https://www.acmicpc.net/problem/2252) | Gold II
 13460 | [구슬 탈출2](https://www.acmicpc.net/problem/13460) | Gold II
 12100 | [2048(Easy)](https://www.acmicpc.net/problem/12100) | Gold II
@@ -336,6 +338,6 @@
 1700 | [멀티탭 스케줄링](https://www.acmicpc.net/problem/1700) | Gold I
 2169 | [로봇 조종하기](https://www.acmicpc.net/problem/2169) | Gold I
 2568 | [전깃줄 - 2](https://www.acmicpc.net/problem/2568) | Gold I
-통계 | 총합 | 115문제
+통계 | 총합 | 122문제
 </div>
 </details>
