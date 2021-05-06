@@ -243,6 +243,8 @@
 17070 | [파이프 옮기기 1](https://www.acmicpc.net/problem/17070) | Gold V
 17069 | [파이프 옮기기 2](https://www.acmicpc.net/problem/17069) | Gold V
 2812 | [크게 만들기](https://www.acmicpc.net/problem/2812) | Gold V
+12904 | [A와 B](https://www.acmicpc.net/problem/12904) | Gold V
+1092 | [배](https://www.acmicpc.net/problem/1092) | Gold V
 1987 | [알파벳](https://www.acmicpc.net/problem/1987) | Gold IV
 2206 | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) | Gold IV
 2580 | [스도쿠](https://www.acmicpc.net/problem/2580) | Gold IV
@@ -338,6 +340,6 @@
 1700 | [멀티탭 스케줄링](https://www.acmicpc.net/problem/1700) | Gold I
 2169 | [로봇 조종하기](https://www.acmicpc.net/problem/2169) | Gold I
 2568 | [전깃줄 - 2](https://www.acmicpc.net/problem/2568) | Gold I
-통계 | 총합 | 122문제
+통계 | 총합 | 124문제
 </div>
 </details>
