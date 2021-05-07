@@ -3,7 +3,9 @@
 #### <a href = "https://solved.ac/">Solved.ac</a>
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ccc96360)](https://solved.ac/profile/ccc96360)
 
-
+<details>
+<summary>백준</summary>
+<div markdown="1">
 
 <details>
 <summary>Bronze</summary>
@@ -341,5 +343,27 @@
 2169 | [로봇 조종하기](https://www.acmicpc.net/problem/2169) | Gold I
 2568 | [전깃줄 - 2](https://www.acmicpc.net/problem/2568) | Gold I
 통계 | 총합 | 124문제
+</div>
+</details>
+
+</div>
+</details>
+
+<details>
+<summary>프로그래머스</summary>
+<div markdown="1">
+
+<details>
+<summary>2020 카카오 인턴십</summary>
+<div markdown="1">
+
+| 문제이름 | 난이도 |
+| --- | :---:|
+[키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256) | Level 1
+[수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67256) | Level 2
+[보석 쇼핑](https://programmers.co.kr/learn/courses/30/lessons/67258) | Level 3
+총합 | 3문제
+</div>
+</details>
 </div>
 </details>
