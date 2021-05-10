@@ -1,4 +1,3 @@
-
 def solution(gems):
     own = {}
     for v in gems:
