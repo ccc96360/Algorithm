@@ -247,6 +247,8 @@
 2812 | [크게 만들기](https://www.acmicpc.net/problem/2812) | Gold V
 12904 | [A와 B](https://www.acmicpc.net/problem/12904) | Gold V
 1092 | [배](https://www.acmicpc.net/problem/1092) | Gold V
+1461 | [도서관](https://www.acmicpc.net/problem/1461) | Gold V
+1464 | [뒤집기 3](https://www.acmicpc.net/problem/1464) | Gold V
 1987 | [알파벳](https://www.acmicpc.net/problem/1987) | Gold IV
 2206 | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) | Gold IV
 2580 | [스도쿠](https://www.acmicpc.net/problem/2580) | Gold IV
