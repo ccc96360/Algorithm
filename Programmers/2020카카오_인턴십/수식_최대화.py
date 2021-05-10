@@ -39,6 +39,3 @@ def solution(expression):
             stack = deepcopy(stack2)
         answer = max(answer, abs(stack[0]))
     return answer
-
-asd = ""
-print(solution(input().rstrip()))
