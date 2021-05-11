@@ -249,6 +249,8 @@
 1092 | [배](https://www.acmicpc.net/problem/1092) | Gold V
 1461 | [도서관](https://www.acmicpc.net/problem/1461) | Gold V
 1464 | [뒤집기 3](https://www.acmicpc.net/problem/1464) | Gold V
+13549 | [숨바꼭질3](https://www.acmicpc.net/problem/13549) | Gold V
+1068 | [트리](https://www.acmicpc.net/problem/1068) | Gold V
 1987 | [알파벳](https://www.acmicpc.net/problem/1987) | Gold IV
 2206 | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) | Gold IV
 2580 | [스도쿠](https://www.acmicpc.net/problem/2580) | Gold IV
@@ -344,7 +346,7 @@
 1700 | [멀티탭 스케줄링](https://www.acmicpc.net/problem/1700) | Gold I
 2169 | [로봇 조종하기](https://www.acmicpc.net/problem/2169) | Gold I
 2568 | [전깃줄 - 2](https://www.acmicpc.net/problem/2568) | Gold I
-통계 | 총합 | 124문제
+통계 | 총합 | 128문제
 </div>
 </details>
 
