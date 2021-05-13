@@ -253,6 +253,8 @@
 1068 | [트리](https://www.acmicpc.net/problem/1068) | Gold V
 5557 | [1학년](https://www.acmicpc.net/problem/5557) | Gold V
 11758 | [CCW](https://www.acmicpc.net/problem/11758) | Gold V
+1600 | [말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600) | Gold V
+14226 | [이모티콘](https://www.acmicpc.net/problem/14226) | Gold V
 1987 | [알파벳](https://www.acmicpc.net/problem/1987) | Gold IV
 2206 | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) | Gold IV
 2580 | [스도쿠](https://www.acmicpc.net/problem/2580) | Gold IV
@@ -348,7 +350,7 @@
 1700 | [멀티탭 스케줄링](https://www.acmicpc.net/problem/1700) | Gold I
 2169 | [로봇 조종하기](https://www.acmicpc.net/problem/2169) | Gold I
 2568 | [전깃줄 - 2](https://www.acmicpc.net/problem/2568) | Gold I
-통계 | 총합 | 130문제
+통계 | 총합 | 132문제
 </div>
 </details>
 
