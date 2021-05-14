@@ -282,6 +282,8 @@
 2056 | [작업](https://www.acmicpc.net/problem/2056) | Gold IV
 14002 | [가장 긴 증가하는 부분 수열 4](https://www.acmicpc.net/problem/14002) | Gold IV
 1715 | [카드 정렬하기](https://www.acmicpc.net/problem/1715) | Gold IV
+9935 | [문자열 폭발](https://www.acmicpc.net/problem/9935) | Gold IV
+17298 | [오큰수](https://www.acmicpc.net/problem/17298) | Gold IV
 14890 | [경사로](https://www.acmicpc.net/problem/14890) | Gold III
 1644 | [소수의 연속합](https://www.acmicpc.net/problem/1644) | Gold III
 11054 | [가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054) | Gold III
