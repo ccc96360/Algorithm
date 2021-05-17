@@ -286,6 +286,8 @@
 17298 | [오큰수](https://www.acmicpc.net/problem/17298) | Gold IV
 17135 | [캐슬 디펜스](https://www.acmicpc.net/problem/17135) | Gold IV
 1744 | [수 묶기](https://www.acmicpc.net/problem/1744) | Gold IV
+1976 | [여행 가자](https://www.acmicpc.net/problem/1976) | Gold IV
+4485 | [녹색 옷 입은 애가 젤다지?](https://www.acmicpc.net/problem/4485) | Gold IV
 14890 | [경사로](https://www.acmicpc.net/problem/14890) | Gold III
 1644 | [소수의 연속합](https://www.acmicpc.net/problem/1644) | Gold III
 11054 | [가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054) | Gold III
@@ -354,7 +356,7 @@
 1700 | [멀티탭 스케줄링](https://www.acmicpc.net/problem/1700) | Gold I
 2169 | [로봇 조종하기](https://www.acmicpc.net/problem/2169) | Gold I
 2568 | [전깃줄 - 2](https://www.acmicpc.net/problem/2568) | Gold I
-통계 | 총합 | 136문제
+통계 | 총합 | 138문제
 </div>
 </details>
 
