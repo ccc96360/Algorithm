@@ -290,6 +290,8 @@
 4485 | [녹색 옷 입은 애가 젤다지?](https://www.acmicpc.net/problem/4485) | Gold IV
 17140 | [이차원 배열과 연산](https://www.acmicpc.net/problem/17140) | Gold IV
 2458 | [키 순서](https://www.acmicpc.net/problem/2458) | Gold IV
+1939 | [중량제한](https://www.acmicpc.net/problem/1939) | Gold IV
+17406 | [배열 돌리기 4](https://www.acmicpc.net/problem/17406) | Gold IV
 14890 | [경사로](https://www.acmicpc.net/problem/14890) | Gold III
 1644 | [소수의 연속합](https://www.acmicpc.net/problem/1644) | Gold III
 11054 | [가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054) | Gold III
@@ -358,7 +360,7 @@
 1700 | [멀티탭 스케줄링](https://www.acmicpc.net/problem/1700) | Gold I
 2169 | [로봇 조종하기](https://www.acmicpc.net/problem/2169) | Gold I
 2568 | [전깃줄 - 2](https://www.acmicpc.net/problem/2568) | Gold I
-통계 | 총합 | 140문제
+통계 | 총합 | 142문제
 </div>
 </details>
 
