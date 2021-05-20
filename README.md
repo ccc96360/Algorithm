@@ -292,6 +292,7 @@
 2458 | [키 순서](https://www.acmicpc.net/problem/2458) | Gold IV
 1939 | [중량제한](https://www.acmicpc.net/problem/1939) | Gold IV
 17406 | [배열 돌리기 4](https://www.acmicpc.net/problem/17406) | Gold IV
+2600 | [구슬게임](https://www.acmicpc.net/problem/2600) | Gold IV
 14890 | [경사로](https://www.acmicpc.net/problem/14890) | Gold III
 1644 | [소수의 연속합](https://www.acmicpc.net/problem/1644) | Gold III
 11054 | [가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054) | Gold III
@@ -320,6 +321,7 @@
 1507 | [궁금한 민호](https://www.acmicpc.net/problem/1507) | Gold III
 8980 | [택배](https://www.acmicpc.net/problem/8980) | Gold III
 13904 | [과제](https://www.acmicpc.net/problem/13904) | Gold III
+11062 | [카드 게임](https://www.acmicpc.net/problem/11062) | Gold III
 2252 | [줄 세우기](https://www.acmicpc.net/problem/2252) | Gold II
 13460 | [구슬 탈출2](https://www.acmicpc.net/problem/13460) | Gold II
 12100 | [2048(Easy)](https://www.acmicpc.net/problem/12100) | Gold II
@@ -360,7 +362,7 @@
 1700 | [멀티탭 스케줄링](https://www.acmicpc.net/problem/1700) | Gold I
 2169 | [로봇 조종하기](https://www.acmicpc.net/problem/2169) | Gold I
 2568 | [전깃줄 - 2](https://www.acmicpc.net/problem/2568) | Gold I
-통계 | 총합 | 142문제
+통계 | 총합 | 144문제
 </div>
 </details>
 
