@@ -327,6 +327,7 @@
 16562 | [친구비](https://www.acmicpc.net/problem/16562) | Gold III
 10800 | [컬러볼](https://www.acmicpc.net/problem/10800) | Gold III
 2342 | [Dance Dance Revolution](https://www.acmicpc.net/problem/2342) | Gold III
+2662 | [기업투자](https://www.acmicpc.net/problem/2662) | Gold III
 2252 | [줄 세우기](https://www.acmicpc.net/problem/2252) | Gold II
 13460 | [구슬 탈출2](https://www.acmicpc.net/problem/13460) | Gold II
 12100 | [2048(Easy)](https://www.acmicpc.net/problem/12100) | Gold II
