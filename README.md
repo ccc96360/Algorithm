@@ -330,6 +330,8 @@
 2662 | [기업투자](https://www.acmicpc.net/problem/2662) | Gold III
 1826 | [연료 채우기](https://www.acmicpc.net/problem/1826) | Gold III
 16434 | [드래곤 앤 던전](https://www.acmicpc.net/problem/16434) | Gold III
+11967 | [불켜기](https://www.acmicpc.net/problem/11967) | Gold III
+1947 | [선물 전달](https://www.acmicpc.net/problem/1947) | Gold III
 2252 | [줄 세우기](https://www.acmicpc.net/problem/2252) | Gold II
 13460 | [구슬 탈출2](https://www.acmicpc.net/problem/13460) | Gold II
 12100 | [2048(Easy)](https://www.acmicpc.net/problem/12100) | Gold II
@@ -370,7 +372,7 @@
 1700 | [멀티탭 스케줄링](https://www.acmicpc.net/problem/1700) | Gold I
 2169 | [로봇 조종하기](https://www.acmicpc.net/problem/2169) | Gold I
 2568 | [전깃줄 - 2](https://www.acmicpc.net/problem/2568) | Gold I
-통계 | 총합 | 152문제
+통계 | 총합 | 154문제
 </div>
 </details>
 
