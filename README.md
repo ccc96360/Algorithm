@@ -93,6 +93,9 @@
 1010 | [다리 놓기](https://www.acmicpc.net/problem/1010) | Silver V
 2503 | [숫자 야구](https://www.acmicpc.net/problem/2503) | Silver V
 7785 | [회사에 있는 사람](https://www.acmicpc.net/problem/7785) | Silver V
+1059 | [좋은 구간](https://www.acmicpc.net/problem/1059) | Silver V
+1158 | [요세푸스 문제](https://www.acmicpc.net/problem/1158) | Silver V
+4673 | [셀프 넘버](https://www.acmicpc.net/problem/4673) | Silver V
 1065 | [한수](https://www.acmicpc.net/problem/1065) | Silver IV
 10828 | [스택](https://www.acmicpc.net/problem/10828) | Silver IV
 1978 | [소수 찾기](https://www.acmicpc.net/problem/1978) | Silver IV
@@ -137,7 +140,7 @@
 2630 | [색종이 만들기](https://www.acmicpc.net/problem/2630) | Silver III
 11659 | [구간 합 구하기 4](https://www.acmicpc.net/problem/11659) | Silver III
 1057 | [토너먼트](https://www.acmicpc.net/problem/1057) | Silver III
-통계 | 총합 | 74문제
+통계 | 총합 | 77문제
 </div>
 </details>
 <details>
