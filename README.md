@@ -386,17 +386,14 @@
 <summary>프로그래머스</summary>
 <div markdown="1">
 
-<details>
-<summary>2020 카카오 인턴십</summary>
-<div markdown="1">
+| 문제이름 | 난이도 | 비고
+| --- |:---:| :---:|
+[키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256) | Level 1 | 2020 카카오 인턴십
+[수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257) | Level 2 | 2020 카카오 인턴십
+[보석 쇼핑](https://programmers.co.kr/learn/courses/30/lessons/67258) | Level 3 | 2020 카카오 인턴십
+[신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410) | Level 1 | 2021 카카오 BLIND RECRUITMENT
+[메뉴_리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411) | Level 2 | 2021 카카오 BLIND RECRUITMENT
+총합 | 5문제
 
-| 문제이름 | 난이도 |
-| --- | :---:|
-[키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256) | Level 1
-[수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67256) | Level 2
-[보석 쇼핑](https://programmers.co.kr/learn/courses/30/lessons/67258) | Level 3
-총합 | 3문제
-</div>
-</details>
 </div>
 </details>
