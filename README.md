@@ -393,7 +393,8 @@
 [보석 쇼핑](https://programmers.co.kr/learn/courses/30/lessons/67258) | Level 3 | 2020 카카오 인턴십
 [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410) | Level 1 | 2021 카카오 BLIND RECRUITMENT
 [메뉴_리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411) | Level 2 | 2021 카카오 BLIND RECRUITMENT
-총합 | 5문제
+[순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412) | Level 2 | 2021 카카오 BLIND RECRUITMENT
+총합 | 6문제
 
 </div>
 </details>
