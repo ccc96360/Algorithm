@@ -36,8 +36,6 @@ def solution(play_time, adv_time, logs):
         if mx < tmp:
             mx = tmp
             answer = secToTime(i)
-    print(cummulativeViews[timeToSec("00:59:59")],cummulativeViews[timeToSec("25:59:59")])
-    print(cummulativeViews[timeToSec("01:00:00")],cummulativeViews[timeToSec("26:00:00")])
     return answer
 
 def main():
