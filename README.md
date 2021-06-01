@@ -394,6 +394,8 @@
 [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410) | Level 1 | 2021 카카오 BLIND RECRUITMENT
 [메뉴_리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411) | Level 2 | 2021 카카오 BLIND RECRUITMENT
 [순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412) | Level 2 | 2021 카카오 BLIND RECRUITMENT
+[합승 택시 요금](https://programmers.co.kr/learn/courses/30/lessons/72413) | Level 3 | 2021 카카오 BLIND RECRUITMENT
+[광고 삽입](https://programmers.co.kr/learn/courses/30/lessons/72414) | Level 3 | 2021 카카오 BLIND RECRUITMENT
 총합 | 6문제
 
 </div>
