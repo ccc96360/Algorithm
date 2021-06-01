@@ -8,14 +8,14 @@ def solution(n, s, p1, p2, fares):
         floyd[d][c] = f
     for k in range(1,n+1):
         for i in range(1,n+1):
-            for j in range(1,n+1):
+            for j in range(i,n+1):
                 if i == j: floyd[i][j] = 0
-                floyd[i][j] = min(floyd[i][j], floyd[i][k] + floyd[k][j])
+                else:
+                    floyd[i][j] = min(floyd[i][j], floyd[i][k] + floyd[k][j])
+                    floyd[j][i] = floyd[i][j]
     res = INF
     for i in range(1,n+1):
-        a = floyd[i][p1] if i <= p1 else floyd[p1][i]
-        b = floyd[i][p2] if i <= p2 else floyd[p2][i]
-        res = min(res, (floyd[s][i] if s <= i else floyd[i][s]) + a + b)
+        res = min(res, floyd[s][i] + floyd[i][p1] + floyd[i][p2])
     return res
 
 def main():
