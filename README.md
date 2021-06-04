@@ -396,7 +396,9 @@
 [순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412) | Level 2 | 2021 카카오 BLIND RECRUITMENT
 [합승 택시 요금](https://programmers.co.kr/learn/courses/30/lessons/72413) | Level 3 | 2021 카카오 BLIND RECRUITMENT
 [광고 삽입](https://programmers.co.kr/learn/courses/30/lessons/72414) | Level 3 | 2021 카카오 BLIND RECRUITMENT
-총합 | 6문제
+[문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057) | Level 2 | 2020 카카오 BLIND RECRUITMENT
+[괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058) | Level 2 | 2020 카카오 BLIND RECRUITMENT
+총합 | 10문제
 
 </div>
 </details>
