@@ -398,7 +398,8 @@
 [광고 삽입](https://programmers.co.kr/learn/courses/30/lessons/72414) | Level 3 | 2021 카카오 BLIND RECRUITMENT
 [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057) | Level 2 | 2020 카카오 BLIND RECRUITMENT
 [괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058) | Level 2 | 2020 카카오 BLIND RECRUITMENT
-총합 | 10문제
+[로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484) | Level 2 | 2021 Dev-Matching 웹 백엔드 개발자(상반기)
+총합 | 11문제
 
 </div>
 </details>
