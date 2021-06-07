@@ -140,7 +140,10 @@
 2630 | [색종이 만들기](https://www.acmicpc.net/problem/2630) | Silver III
 11659 | [구간 합 구하기 4](https://www.acmicpc.net/problem/11659) | Silver III
 1057 | [토너먼트](https://www.acmicpc.net/problem/1057) | Silver III
-통계 | 총합 | 77문제
+9322 | [철벽 보안 알고리즘](https://www.acmicpc.net/problem/9322) | Silver III
+14425 | [문자열 집합](https://www.acmicpc.net/problem/14425) | Silver III
+17479 | [정식당](https://www.acmicpc.net/problem/17479) | Silver III
+통계 | 총합 | 80문제
 </div>
 </details>
 <details>
