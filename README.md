@@ -143,7 +143,9 @@
 9322 | [철벽 보안 알고리즘](https://www.acmicpc.net/problem/9322) | Silver III
 14425 | [문자열 집합](https://www.acmicpc.net/problem/14425) | Silver III
 17479 | [정식당](https://www.acmicpc.net/problem/17479) | Silver III
-통계 | 총합 | 80문제
+2310 | [어드벤쳐 게임](https://www.acmicpc.net/problem/2310) | Silver III
+2872 | [우리집엔 도서관이 있어](https://www.acmicpc.net/problem/2872) | Silver III
+통계 | 총합 | 82문제
 </div>
 </details>
 <details>
