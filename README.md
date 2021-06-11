@@ -96,6 +96,11 @@
 1059 | [좋은 구간](https://www.acmicpc.net/problem/1059) | Silver V
 1158 | [요세푸스 문제](https://www.acmicpc.net/problem/1158) | Silver V
 4673 | [셀프 넘버](https://www.acmicpc.net/problem/4673) | Silver V
+2941 | [크로아티아 알파벳](https://www.acmicpc.net/problem/2941) | Silver V
+2751 | [수 정렬하기 2](https://www.acmicpc.net/problem/2751) | Silver V
+1427 | [소트인사이드](https://www.acmicpc.net/problem/1427) | Silver V
+10989 | [수 정렬하기 3](https://www.acmicpc.net/problem/10989) | Silver V
+2581 | [소수](https://www.acmicpc.net/problem/2581) | Silver V
 1065 | [한수](https://www.acmicpc.net/problem/1065) | Silver IV
 10828 | [스택](https://www.acmicpc.net/problem/10828) | Silver IV
 1978 | [소수 찾기](https://www.acmicpc.net/problem/1978) | Silver IV
@@ -145,7 +150,7 @@
 17479 | [정식당](https://www.acmicpc.net/problem/17479) | Silver III
 2310 | [어드벤쳐 게임](https://www.acmicpc.net/problem/2310) | Silver III
 2872 | [우리집엔 도서관이 있어](https://www.acmicpc.net/problem/2872) | Silver III
-통계 | 총합 | 82문제
+통계 | 총합 | 87문제
 </div>
 </details>
 <details>
