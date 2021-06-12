@@ -122,6 +122,9 @@
 2597 | [줄자접기](https://www.acmicpc.net/problem/2597) | Silver IV
 1817 | [짐 챙기는 숌](https://www.acmicpc.net/problem/1817) | Silver IV
 1620 | [나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620) | Silver IV
+10845 | [큐](https://www.acmicpc.net/problem/10845) | Silver IV
+1920 | [수 찾기](https://www.acmicpc.net/problem/1920) | Silver IV
+14501 | [퇴사](https://www.acmicpc.net/problem/14501) | Silver IV
 1463 | [1로 만들기](https://www.acmicpc.net/problem/1463) | Silver III
 9095 | [1,2,3 더하기](https://www.acmicpc.net/problem/9095) | Silver III
 1003 | [피보나치 함수](https://www.acmicpc.net/problem/1003) | Silver III
