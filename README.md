@@ -125,6 +125,9 @@
 10845 | [큐](https://www.acmicpc.net/problem/10845) | Silver IV
 1920 | [수 찾기](https://www.acmicpc.net/problem/1920) | Silver IV
 14501 | [퇴사](https://www.acmicpc.net/problem/14501) | Silver IV
+2164 | [카드2](https://www.acmicpc.net/problem/2164) | Silver IV
+11866 | [요세푸스 문제 0](https://www.acmicpc.net/problem/11866) | Silver IV
+10773 | [제로](https://www.acmicpc.net/problem/10773) | Silver IV
 1463 | [1로 만들기](https://www.acmicpc.net/problem/1463) | Silver III
 9095 | [1,2,3 더하기](https://www.acmicpc.net/problem/9095) | Silver III
 1003 | [피보나치 함수](https://www.acmicpc.net/problem/1003) | Silver III
@@ -153,7 +156,7 @@
 17479 | [정식당](https://www.acmicpc.net/problem/17479) | Silver III
 2310 | [어드벤쳐 게임](https://www.acmicpc.net/problem/2310) | Silver III
 2872 | [우리집엔 도서관이 있어](https://www.acmicpc.net/problem/2872) | Silver III
-통계 | 총합 | 87문제
+통계 | 총합 | 90문제
 </div>
 </details>
 <details>
