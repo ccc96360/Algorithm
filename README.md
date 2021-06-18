@@ -203,6 +203,7 @@
 1106 | [호텔](https://www.acmicpc.net/problem/1106) | Silver II
 2504 | [괄호의 값](https://www.acmicpc.net/problem/2504) | Silver II
 2004 | [조합 0의 개수](https://www.acmicpc.net/problem/2004) | Silver II
+1965 | [상자 넣기](https://www.acmicpc.net/problem/1965) | Silver II
 2178 | [미로탐색](https://www.acmicpc.net/problem/2178) | Silver I
 1149 | [RGB거리](https://www.acmicpc.net/problem/1149) | Silver I
 2667 | [단지번호붙이기](https://www.acmicpc.net/problem/2667) | Silver I
@@ -236,7 +237,7 @@
 1389 | [케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389) | Silver I
 1309 | [동물원](https://www.acmicpc.net/problem/1309) | Silver I
 16953 | [A->B](https://www.acmicpc.net/problem/16953) | Silver I
-통계 | 총합 | 66문제
+통계 | 총합 | 67문제
 </div>
 </details>
 </details>
