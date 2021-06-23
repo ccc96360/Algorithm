@@ -169,7 +169,9 @@
 15657 | [N 과M (8)](https://www.acmicpc.net/problem/15657) | Silver III
 14889 | [스타트와 링크](https://www.acmicpc.net/problem/14889) | Silver III
 1654 | [랜선 자르기](https://www.acmicpc.net/problem/1654) | Silver III
-통계 | 총합 | 107문제
+10972 | [다음 순열](https://www.acmicpc.net/problem/10972) | Silver III
+1748 | [수 이어 쓰기 1](https://www.acmicpc.net/problem/1748) | Silver III
+통계 | 총합 | 109문제
 </div>
 </details>
 <details>
