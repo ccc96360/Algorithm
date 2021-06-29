@@ -131,6 +131,7 @@
 10815 | [숫자 카드](https://www.acmicpc.net/problem/10815) | Silver IV
 2217 | [로프](https://www.acmicpc.net/problem/2217) | Silver IV
 10816 | [숫자 카드2](https://www.acmicpc.net/problem/10816) | Silver IV
+11656 | [접미사 배열](https://www.acmicpc.net/problem/11656) | Silver IV
 1463 | [1로 만들기](https://www.acmicpc.net/problem/1463) | Silver III
 9095 | [1,2,3 더하기](https://www.acmicpc.net/problem/9095) | Silver III
 1003 | [피보나치 함수](https://www.acmicpc.net/problem/1003) | Silver III
