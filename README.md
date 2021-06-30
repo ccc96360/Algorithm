@@ -172,7 +172,8 @@
 1654 | [랜선 자르기](https://www.acmicpc.net/problem/1654) | Silver III
 10972 | [다음 순열](https://www.acmicpc.net/problem/10972) | Silver III
 1748 | [수 이어 쓰기 1](https://www.acmicpc.net/problem/1748) | Silver III
-통계 | 총합 | 109문제
+1735 | [분수 합](https://www.acmicpc.net/problem/1735) | Silver III
+통계 | 총합 | 110문제
 </div>
 </details>
 <details>
