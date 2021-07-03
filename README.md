@@ -449,7 +449,8 @@
 [로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484) | Level 1 | 2021 Dev-Matching 웹 백엔드 개발자(상반기) | Python3
 [행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485) | Level 2 | 2021 Dev-Matching 웹 백엔드 개발자(상반기) | Python3
 [다단계 칫솔 판매](https://programmers.co.kr/learn/courses/30/lessons/77486) | Level 3 | 2021 Dev-Matching 웹 백엔드 개발자(상반기) | Python3
-총합 | 13문제
+[크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061) | Level 3 | 2021 Dev-Matching 웹 백엔드 개발자(상반기) | Java
+총합 | 14문제
 
 </div>
 </details>
