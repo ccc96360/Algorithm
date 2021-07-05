@@ -221,8 +221,9 @@
 1965 | [상자 넣기](https://www.acmicpc.net/problem/1965) | Silver II | Java
 2529 | [부등호](https://www.acmicpc.net/problem/2529) | Silver II | Java
 15663 | [N과 M (9)](https://www.acmicpc.net/problem/15663) | Silver II | Java
+1713 | [후보 추천하기](https://www.acmicpc.net/problem/1713) | Silver II | Java
 2178 | [미로탐색](https://www.acmicpc.net/problem/2178) | Silver I | Python3
-1149 | [RGB거리](https://www.acmicpc.net/problem/1149) | Silver Is | Python3
+1149 | [RGB거리](https://www.acmicpc.net/problem/1149) | Silver I | Python3
 2667 | [단지번호붙이기](https://www.acmicpc.net/problem/2667) | Silver I | Python3
 11047 | [동전 0](https://www.acmicpc.net/problem/11047) | Silver I | Python3
 1932 | [정수 삼각형](https://www.acmicpc.net/problem/1932) | Silver I | Python3
@@ -255,7 +256,7 @@
 1309 | [동물원](https://www.acmicpc.net/problem/1309) | Silver I | Python3
 16953 | [A->B](https://www.acmicpc.net/problem/16953) | Silver I | Python3
 11286 | [절대값 힙](https://www.acmicpc.net/problem/11286) | Silver I | Java
-통계 | 총합 | 72문제
+통계 | 총합 | 73문제
 </div>
 </details>
 </details>
@@ -271,7 +272,7 @@
 1753 | [최단경로](https://www.acmicpc.net/problem/1753) | Gold V | Python3
 14503 | [로봇 청소기](https://www.acmicpc.net/problem/14503) | Gold V | Python3
 9251 | [LCS](https://www.acmicpc.net/problem/9251) | Gold V | Python3
-1759 | [암호 만들기](https://www.acmicpc.net/problem/1759) | Gold V | Python3
+1759 | [암호 만들기](https://www.acmicpc.net/problem/1759) | Gold V | Python3, Java
 14500 | [테트로미노](https://www.acmicpc.net/problem/14500) | Gold V | Python3
 15686 | [치킨 배달](https://www.acmicpc.net/problem/15686) | Gold V | Python3
 10026 | [적록색약](https://www.acmicpc.net/problem/10026) | Gold V | Python3
@@ -281,7 +282,7 @@
 2225 | [합분해](https://www.acmicpc.net/problem/2225) | Gold V | Python3
 1107 | [리모컨](https://www.acmicpc.net/problem/1107) | Gold V | Python3
 1916 | [최소비용 구하기](https://www.acmicpc.net/problem/1916) | Gold V | Python3
-3055 | [탈출](https://www.acmicpc.net/problem/3055) | Gold V | Python3
+3055 | [탈출](https://www.acmicpc.net/problem/3055) | Gold V | Python3, Java
 15683 | [감시](https://www.acmicpc.net/problem/15683) | Gold V | Python3
 16234 | [인구 이동](https://www.acmicpc.net/problem/16234) | Gold V | Python3
 5014 | [스타트링크](https://www.acmicpc.net/problem/5014) | Gold V | Python3
@@ -345,6 +346,7 @@
 17406 | [배열 돌리기 4](https://www.acmicpc.net/problem/17406) | Gold IV | Python3
 2600 | [구슬게임](https://www.acmicpc.net/problem/2600) | Gold IV | Python3
 12107 | [약수 지우기 게임 1](https://www.acmicpc.net/problem/12107) | Gold IV | Python3
+1026 | [가르침](https://www.acmicpc.net/problem/1026) | Gold IV | Java
 14890 | [경사로](https://www.acmicpc.net/problem/14890) | Gold III | Python3
 1644 | [소수의 연속합](https://www.acmicpc.net/problem/1644) | Gold III | Python3
 11054 | [가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054) | Gold III | Python3
@@ -383,6 +385,8 @@
 16434 | [드래곤 앤 던전](https://www.acmicpc.net/problem/16434) | Gold III | Python3
 11967 | [불켜기](https://www.acmicpc.net/problem/11967) | Gold III | Python3
 1947 | [선물 전달](https://www.acmicpc.net/problem/1947) | Gold III | Python3
+3425 | [고스택](https://www.acmicpc.net/problem/3425) | Gold III | Java
+1039 | [교환](https://www.acmicpc.net/problem/1039) | Gold III | Java
 2252 | [줄 세우기](https://www.acmicpc.net/problem/2252) | Gold II | Python3
 13460 | [구슬 탈출2](https://www.acmicpc.net/problem/13460) | Gold II | Python3
 12100 | [2048(Easy)](https://www.acmicpc.net/problem/12100) | Gold II | Python3
@@ -408,6 +412,7 @@
 2629 | [통나무 옮기기](https://www.acmicpc.net/problem/2629) | Gold II | Python3
 10253 | [헨리](https://www.acmicpc.net/problem/10253) | Gold II | Python3
 2014 | [소수의 곱](https://www.acmicpc.net/problem/2014) | Gold II | Python3
+1103 | [게임](https://www.acmicpc.net/problem/1103) | Gold II | Java
 2042 | [구간 합 구하기](https://www.acmicpc.net/problem/2042) | Gold I | Python3
 2357 | [최솟값과 최댓값](https://www.acmicpc.net/problem/2357) | Gold I | Python3
 5676 | [음주 코딩](https://www.acmicpc.net/problem/5676) | Gold I | Python3
@@ -423,7 +428,7 @@
 1700 | [멀티탭 스케줄링](https://www.acmicpc.net/problem/1700) | Gold I | Python3
 2169 | [로봇 조종하기](https://www.acmicpc.net/problem/2169) | Gold I | Python3
 2568 | [전깃줄 - 2](https://www.acmicpc.net/problem/2568) | Gold I | Python3
-통계 | 총합 | 156문제
+통계 | 총합 | 159문제
 </div>
 </details>
 
