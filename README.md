@@ -50,7 +50,8 @@
 1977 | [완전제곱수](https://www.acmicpc.net/problem/1977) | Bronze I | Python3
 2033 | [반올림](https://www.acmicpc.net/problem/2033) | Bronze I | Python3
 11179 | [2진수 뒤집기](https://www.acmicpc.net/problem/11179) | Bronze I | Python3
-통계 | 총합 | 37문제
+2748 | [피보나치 수 1](https://www.acmicpc.net/problem/2748) | 피보나치 수 1I | Java
+통계 | 총합 | 38문제
 </div>
 </details>
 
@@ -142,7 +143,7 @@
 11727 | [2xn 타일링2](https://www.acmicpc.net/problem/11727) | Silver III | Python3
 9461 | [파도반 수열](https://www.acmicpc.net/problem/9461) | Silver III | Python3
 15649 | [스택 수열](https://www.acmicpc.net/problem/15649) | Silver III | Python3
-2805 | [나무 자르기](https://www.acmicpc.net/problem/2805) | Silver III | Python3
+2805 | [나무 자르기](https://www.acmicpc.net/problem/2805) | Silver III | Python3, Java
 17390 | [이건 꼭 풀어야 해!](https://www.acmicpc.net/problem/17390) | Silver III | Python3
 10799 | [쇠 막대기](https://www.acmicpc.net/problem/10799) | Silver III | Python3
 1904 | [01타일](https://www.acmicpc.net/problem/1904) | Silver III | Python3
@@ -150,7 +151,7 @@
 1676 | [팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676) | Silver III | Python3
 1699 | [제곱수의 합](https://www.acmicpc.net/problem/1699) | Silver III | Python3
 1406 | [에디터](https://www.acmicpc.net/problem/1406) | Silver III | Python3
-2003 | [수들의 합 2](https://www.acmicpc.net/problem/2003) | Silver III | Python3
+2003 | [수들의 합 2](https://www.acmicpc.net/problem/2003) | Silver III | Python3, Java
 10974 | [모든 순열](https://www.acmicpc.net/problem/10974) | Silver III | Python3
 2630 | [색종이 만들기](https://www.acmicpc.net/problem/2630) | Silver III | Python3
 11659 | [구간 합 구하기 4](https://www.acmicpc.net/problem/11659) | Silver III | Python3
@@ -174,7 +175,8 @@
 1748 | [수 이어 쓰기 1](https://www.acmicpc.net/problem/1748) | Silver III | Java
 1735 | [분수 합](https://www.acmicpc.net/problem/1735) | Silver III | Java
 5397 | [키로거](https://www.acmicpc.net/problem/5397) | Silver III | Java
-통계 | 총합 | 112문제
+1072 | [게임](https://www.acmicpc.net/problem/1072) | Silver III | Java
+통계 | 총합 | 113문제
 </div>
 </details>
 <details>
@@ -307,9 +309,10 @@
 14226 | [이모티콘](https://www.acmicpc.net/problem/14226) | Gold V | Python3
 2075 | [N번째 큰 수](https://www.acmicpc.net/problem/2075) | Gold V | Java
 2636 | [치즈](https://www.acmicpc.net/problem/2636) | Gold V | Java
+2636 | [N-Queen](https://www.acmicpc.net/problem/2636) | Gold V | Java
 1987 | [알파벳](https://www.acmicpc.net/problem/1987) | Gold IV | Python3
 2206 | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) | Gold IV | Python3
-2580 | [스도쿠](https://www.acmicpc.net/problem/2580) | Gold IV | Python3
+2580 | [스도쿠](https://www.acmicpc.net/problem/2580) | Gold IV | Python3, Java
 1717 | [집합의 표현](https://www.acmicpc.net/problem/1717) | Gold IV | Python3
 1197 | [최소 스패닝 트리](https://www.acmicpc.net/problem/1197) | Gold IV | Python3
 1520 | [내리막길](https://www.acmicpc.net/problem/1520) | Gold IV | Python3
@@ -322,7 +325,7 @@
 2573 | [빙산](https://www.acmicpc.net/problem/2573) | Gold IV | Python3
 15685 | [드래곤 커브](https://www.acmicpc.net/problem/15685) | Gold IV | Python3
 1504 | [특정한 최단 경로](https://www.acmicpc.net/problem/1504) | Gold IV | Python3
-1806 | [부분합](https://www.acmicpc.net/problem/1806) | Gold IV | Python3
+1806 | [부분합](https://www.acmicpc.net/problem/1806) | Gold IV | Python3, Java
 2096 | [내려가기](https://www.acmicpc.net/problem/2096) | Gold IV | Python3
 9466 | [텀 프로젝트](https://www.acmicpc.net/problem/9466) | Gold IV | Python3
 1967 | [트리의 지름](https://www.acmicpc.net/problem/1967) | Gold IV | Python3
@@ -370,7 +373,7 @@
 11779 | [최소비용 구하기 2](https://www.acmicpc.net/problem/11779) | Gold III | Python3
 1256 | [사전](https://www.acmicpc.net/problem/1256) | Gold III | Python3
 2533 | [사회망 서비스(SNS)](https://www.acmicpc.net/problem/2533) | Gold III | Python3
-2143 | [두 배열의 합](https://www.acmicpc.net/problem/2143) | Gold III | Python3
+2143 | [두 배열의 합](https://www.acmicpc.net/problem/2143) | Gold III | Python3, Java
 14442 | [벽 부수고 이동하기 2](https://www.acmicpc.net/problem/14442) | Gold III | Python3
 1507 | [궁금한 민호](https://www.acmicpc.net/problem/1507) | Gold III | Python3
 8980 | [택배](https://www.acmicpc.net/problem/8980) | Gold III | Python3
@@ -400,7 +403,7 @@
 1202 | [보석 도둑](https://www.acmicpc.net/problem/1202) | Gold II | Python3
 1525 | [퍼즐](https://www.acmicpc.net/problem/1525) | Gold II | Python3
 17136 | [색종이 붙이기](https://www.acmicpc.net/problem/17136) | Gold II | Python3
-7453 | [합이 0인 네 정수](https://www.acmicpc.net/problem/7453) | Gold II | Python3
+7453 | [합이 0인 네 정수](https://www.acmicpc.net/problem/7453) | Gold II | Python3, Java
 2623 | [음악프로그램](https://www.acmicpc.net/problem/2623) | Gold II | Python3
 12738 | [가장 긴 증가하는 부분수열3](https://www.acmicpc.net/problem/12738) | Gold II | Python3
 2250 | [트리의 높이와 너비](https://www.acmicpc.net/problem/2250) | Gold II | Python3
