@@ -203,7 +203,7 @@
 11055 | [가장 큰 증가 부분 수열](https://www.acmicpc.net/problem/11055) | Silver II | Python3
 7562 | [나이트의 이동](https://www.acmicpc.net/problem/7562) | Silver II | Python3
 11722 | [가장 긴 감소하는 부분 수열](https://www.acmicpc.net/problem/11722) | Silver II | Python3
-11279 | [최대 힙](https://www.acmicpc.net/problem/11279) | Silver II | Python3
+11279 | [최대 힙](https://www.acmicpc.net/problem/11279) | Silver II | Python3, Java
 1780 | [종이의 개수](https://www.acmicpc.net/problem/1780) | Silver II | Python3
 10819 | [차이를 최대로](https://www.acmicpc.net/problem/10819) | Silver II | Python3
 2644 | [촌수계산](https://www.acmicpc.net/problem/2644) | Silver II | Python3
@@ -237,7 +237,7 @@
 14888 | [연산자 끼워넣기](https://www.acmicpc.net/problem/14888) | Silver I | Python3
 1011 | [Fly me to the Alpha Centauri](https://www.acmicpc.net/problem/1011) | Silver I | Python3
 11057 | [오르막 수](https://www.acmicpc.net/problem/11057) | Silver I | Python3
-1991 | [트리 순회](https://www.acmicpc.net/problem/1991) | Silver I | Python3
+1991 | [트리 순회](https://www.acmicpc.net/problem/1991) | Silver I | Python3, Java
 2293 | [동전 1](https://www.acmicpc.net/problem/2293) | Silver I | Python3
 2447 | [별 찍기-10](https://www.acmicpc.net/problem/2447) | Silver I | Python3
 11403 | [경로 찾기](https://www.acmicpc.net/problem/11403) | Silver I | Python3
@@ -245,7 +245,7 @@
 2468 | [안전 영역](https://www.acmicpc.net/problem/2468) | Silver I | Python3
 2583 | [영역 구하기](https://www.acmicpc.net/problem/2583) | Silver I | Python3
 1992 | [쿼드트리](https://www.acmicpc.net/problem/1992) | Silver I | Python3
-1927 | [최소 힙](https://www.acmicpc.net/problem/1927) | Silver I | Python3
+1927 | [최소 힙](https://www.acmicpc.net/problem/1927) | Silver I | Python3, Java
 11051 | [이항 계수2](https://www.acmicpc.net/problem/11051) | Silver I | Python3
 2133 | [타일 채우기](https://www.acmicpc.net/problem/2133) | Silver I | Python3
 11048 | [이동하기](https://www.acmicpc.net/problem/11048) | Silver I | Python3
@@ -258,7 +258,8 @@
 1309 | [동물원](https://www.acmicpc.net/problem/1309) | Silver I | Python3
 16953 | [A->B](https://www.acmicpc.net/problem/16953) | Silver I | Python3
 11286 | [절대값 힙](https://www.acmicpc.net/problem/11286) | Silver I | Java
-통계 | 총합 | 73문제
+5639 | [이진 검색 트리](https://www.acmicpc.net/problem/5639) | Silver I | Java
+통계 | 총합 | 74문제
 </div>
 </details>
 </details>
@@ -432,6 +433,20 @@
 2169 | [로봇 조종하기](https://www.acmicpc.net/problem/2169) | Gold I | Python3
 2568 | [전깃줄 - 2](https://www.acmicpc.net/problem/2568) | Gold I | Python3
 통계 | 총합 | 159문제
+</div>
+</details>
+
+<details>
+<summary>Platinum</summary>
+<div markdown="1">
+
+| 번호 | 문제이름 | 난이도 | 언어 |
+| --- |:---:| :---:| :---:|
+11003 | [최솟값 찾기](https://www.acmicpc.net/problem/11003) | Platinum IV | Java
+2842 | [집배원 한상덕](https://www.acmicpc.net/problem/2842) | Platinum IV | Java
+2517 | [달리기](https://www.acmicpc.net/problem/2517) | Platinum V | Java
+
+통계 | 총합 | 3문제
 </div>
 </details>
 
