@@ -311,6 +311,7 @@
 2075 | [N번째 큰 수](https://www.acmicpc.net/problem/2075) | Gold V | Java
 2636 | [치즈](https://www.acmicpc.net/problem/2636) | Gold V | Java
 2636 | [N-Queen](https://www.acmicpc.net/problem/2636) | Gold V | Java
+3020 | [개똥벌레](https://www.acmicpc.net/problem/3020) | Gold V | Java
 1987 | [알파벳](https://www.acmicpc.net/problem/1987) | Gold IV | Python3
 2206 | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) | Gold IV | Python3
 2580 | [스도쿠](https://www.acmicpc.net/problem/2580) | Gold IV | Python3, Java
@@ -401,7 +402,7 @@
 1655 | [가운데를 말해요](https://www.acmicpc.net/problem/1655) | Gold II | Python3
 17143 | [낚시왕](https://www.acmicpc.net/problem/17143) | Gold II | Python3
 4195 | [친구 네트워크](https://www.acmicpc.net/problem/4195) | Gold II | Python3
-1202 | [보석 도둑](https://www.acmicpc.net/problem/1202) | Gold II | Python3
+1202 | [보석 도둑](https://www.acmicpc.net/problem/1202) | Gold II | Python3, Java
 1525 | [퍼즐](https://www.acmicpc.net/problem/1525) | Gold II | Python3
 17136 | [색종이 붙이기](https://www.acmicpc.net/problem/17136) | Gold II | Python3
 7453 | [합이 0인 네 정수](https://www.acmicpc.net/problem/7453) | Gold II | Python3, Java
@@ -415,9 +416,9 @@
 2629 | [양팔저울](https://www.acmicpc.net/problem/2629) | Gold II | Python3
 2629 | [통나무 옮기기](https://www.acmicpc.net/problem/2629) | Gold II | Python3
 10253 | [헨리](https://www.acmicpc.net/problem/10253) | Gold II | Python3
-2014 | [소수의 곱](https://www.acmicpc.net/problem/2014) | Gold II | Python3
+2014 | [소수의 곱](https://www.acmicpc.net/problem/2014) | Gold II | Python3, Java
 1103 | [게임](https://www.acmicpc.net/problem/1103) | Gold II | Java
-2042 | [구간 합 구하기](https://www.acmicpc.net/problem/2042) | Gold I | Python3
+2042 | [구간 합 구하기](https://www.acmicpc.net/problem/2042) | Gold I | Python3, Java
 2357 | [최솟값과 최댓값](https://www.acmicpc.net/problem/2357) | Gold I | Python3
 5676 | [음주 코딩](https://www.acmicpc.net/problem/5676) | Gold I | Python3
 1016 | [제곱 ㄴㄴ수](https://www.acmicpc.net/problem/1016) | Gold I | Python3
