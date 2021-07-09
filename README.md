@@ -50,8 +50,9 @@
 1977 | [완전제곱수](https://www.acmicpc.net/problem/1977) | Bronze I | Python3
 2033 | [반올림](https://www.acmicpc.net/problem/2033) | Bronze I | Python3
 11179 | [2진수 뒤집기](https://www.acmicpc.net/problem/11179) | Bronze I | Python3
-2748 | [피보나치 수 1](https://www.acmicpc.net/problem/2748) | 피보나치 수 1I | Java
-통계 | 총합 | 38문제
+2748 | [피보나치 수 1](https://www.acmicpc.net/problem/2748) | BronzeI | Java
+11050 | [이항 계수 1](https://www.acmicpc.net/problem/11050) | BronzeI | Java
+통계 | 총합 | 39문제
 </div>
 </details>
 
@@ -91,7 +92,7 @@
 11004 | [K번째 수](https://www.acmicpc.net/problem/11004) | Silver V | Python3
 10867 | [중복 빼고 정렬하기](https://www.acmicpc.net/problem/10867) | Silver V | Python3
 2822 | [점수 계산](https://www.acmicpc.net/problem/2822) | Silver V | Python3
-1010 | [다리 놓기](https://www.acmicpc.net/problem/1010) | Silver V | Python3
+1010 | [다리 놓기](https://www.acmicpc.net/problem/1010) | Silver V | Python3, Java
 2503 | [숫자 야구](https://www.acmicpc.net/problem/2503) | Silver V | Python3
 7785 | [회사에 있는 사람](https://www.acmicpc.net/problem/7785) | Silver V | Python3
 1059 | [좋은 구간](https://www.acmicpc.net/problem/1059) | Silver V | Python3
@@ -102,6 +103,7 @@
 1427 | [소트인사이드](https://www.acmicpc.net/problem/1427) | Silver V | Java
 10989 | [수 정렬하기 3](https://www.acmicpc.net/problem/10989) | Silver V | Java
 2581 | [소수](https://www.acmicpc.net/problem/2581) | Silver V | Java
+5568 | [카드 놓기](https://www.acmicpc.net/problem/5568) | Silver V | Java
 1065 | [한수](https://www.acmicpc.net/problem/1065) | Silver IV | Python3
 10828 | [스택](https://www.acmicpc.net/problem/10828) | Silver IV | Python3
 1978 | [소수 찾기](https://www.acmicpc.net/problem/1978) | Silver IV | Python3
@@ -133,6 +135,8 @@
 2217 | [로프](https://www.acmicpc.net/problem/2217) | Silver IV | Python3
 10816 | [숫자 카드2](https://www.acmicpc.net/problem/10816) | Silver IV | Java
 11656 | [접미사 배열](https://www.acmicpc.net/problem/11656) | Silver IV | Java
+11653 | [소인수분해](https://www.acmicpc.net/problem/11653) | Silver IV | Java
+2960 | [에라토스테네스의 체](https://www.acmicpc.net/problem/2960) | Silver IV | Java
 1463 | [1로 만들기](https://www.acmicpc.net/problem/1463) | Silver III | Python3
 9095 | [1,2,3 더하기](https://www.acmicpc.net/problem/9095) | Silver III | Python3
 1003 | [피보나치 함수](https://www.acmicpc.net/problem/1003) | Silver III | Python3
@@ -176,7 +180,7 @@
 1735 | [분수 합](https://www.acmicpc.net/problem/1735) | Silver III | Java
 5397 | [키로거](https://www.acmicpc.net/problem/5397) | Silver III | Java
 1072 | [게임](https://www.acmicpc.net/problem/1072) | Silver III | Java
-통계 | 총합 | 113문제
+통계 | 총합 | 116문제
 </div>
 </details>
 <details>
@@ -224,6 +228,7 @@
 2529 | [부등호](https://www.acmicpc.net/problem/2529) | Silver II | Java
 15663 | [N과 M (9)](https://www.acmicpc.net/problem/15663) | Silver II | Java
 1713 | [후보 추천하기](https://www.acmicpc.net/problem/1713) | Silver II | Java
+15664 | [N과 M (10)](https://www.acmicpc.net/problem/15664) | Silver II | Java
 2178 | [미로탐색](https://www.acmicpc.net/problem/2178) | Silver I | Python3
 1149 | [RGB거리](https://www.acmicpc.net/problem/1149) | Silver I | Python3
 2667 | [단지번호붙이기](https://www.acmicpc.net/problem/2667) | Silver I | Python3
@@ -246,7 +251,7 @@
 2583 | [영역 구하기](https://www.acmicpc.net/problem/2583) | Silver I | Python3
 1992 | [쿼드트리](https://www.acmicpc.net/problem/1992) | Silver I | Python3
 1927 | [최소 힙](https://www.acmicpc.net/problem/1927) | Silver I | Python3, Java
-11051 | [이항 계수2](https://www.acmicpc.net/problem/11051) | Silver I | Python3
+11051 | [이항 계수2](https://www.acmicpc.net/problem/11051) | Silver I | Python3, Java
 2133 | [타일 채우기](https://www.acmicpc.net/problem/2133) | Silver I | Python3
 11048 | [이동하기](https://www.acmicpc.net/problem/11048) | Silver I | Python3
 2294 | [동전 2](https://www.acmicpc.net/problem/2294) | Silver I | Python3
@@ -259,7 +264,8 @@
 16953 | [A->B](https://www.acmicpc.net/problem/16953) | Silver I | Python3
 11286 | [절대값 힙](https://www.acmicpc.net/problem/11286) | Silver I | Java
 5639 | [이진 검색 트리](https://www.acmicpc.net/problem/5639) | Silver I | Java
-통계 | 총합 | 74문제
+1722 | [순열의 순서](https://www.acmicpc.net/problem/1722) | Silver I | Java
+통계 | 총합 | 75문제
 </div>
 </details>
 </details>
@@ -304,7 +310,7 @@
 1464 | [뒤집기 3](https://www.acmicpc.net/problem/1464) | Gold V | Python3
 13549 | [숨바꼭질3](https://www.acmicpc.net/problem/13549) | Gold V | Python3
 1068 | [트리](https://www.acmicpc.net/problem/1068) | Gold V | Python3
-5557 | [1학년](https://www.acmicpc.net/problem/5557) | Gold V | Python3
+5557 | [1학년](https://www.acmicpc.net/problem/5557) | Gold V | Python3, Java
 11758 | [CCW](https://www.acmicpc.net/problem/11758) | Gold V | Python3
 1600 | [말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600) | Gold V | Python3
 14226 | [이모티콘](https://www.acmicpc.net/problem/14226) | Gold V | Python3
@@ -312,6 +318,7 @@
 2636 | [치즈](https://www.acmicpc.net/problem/2636) | Gold V | Java
 2636 | [N-Queen](https://www.acmicpc.net/problem/2636) | Gold V | Java
 3020 | [개똥벌레](https://www.acmicpc.net/problem/3020) | Gold V | Java
+5569 | [출근 경로](https://www.acmicpc.net/problem/5569) | Gold V | Java
 1987 | [알파벳](https://www.acmicpc.net/problem/1987) | Gold IV | Python3
 2206 | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) | Gold IV | Python3
 2580 | [스도쿠](https://www.acmicpc.net/problem/2580) | Gold IV | Python3, Java
@@ -373,7 +380,7 @@
 1613 | [역사](https://www.acmicpc.net/problem/1613) | Gold III | Python3
 2263 | [트리의 순회](https://www.acmicpc.net/problem/2263) | Gold III | Python3
 11779 | [최소비용 구하기 2](https://www.acmicpc.net/problem/11779) | Gold III | Python3
-1256 | [사전](https://www.acmicpc.net/problem/1256) | Gold III | Python3
+1256 | [사전](https://www.acmicpc.net/problem/1256) | Gold III | Python3, Java
 2533 | [사회망 서비스(SNS)](https://www.acmicpc.net/problem/2533) | Gold III | Python3
 2143 | [두 배열의 합](https://www.acmicpc.net/problem/2143) | Gold III | Python3, Java
 14442 | [벽 부수고 이동하기 2](https://www.acmicpc.net/problem/14442) | Gold III | Python3
@@ -392,6 +399,7 @@
 1947 | [선물 전달](https://www.acmicpc.net/problem/1947) | Gold III | Python3
 3425 | [고스택](https://www.acmicpc.net/problem/3425) | Gold III | Java
 1039 | [교환](https://www.acmicpc.net/problem/1039) | Gold III | Java
+2904 | [수학은 너무 쉬워](https://www.acmicpc.net/problem/2904) | Gold III | Java
 2252 | [줄 세우기](https://www.acmicpc.net/problem/2252) | Gold II | Python3
 13460 | [구슬 탈출2](https://www.acmicpc.net/problem/13460) | Gold II | Python3
 12100 | [2048(Easy)](https://www.acmicpc.net/problem/12100) | Gold II | Python3
@@ -433,7 +441,7 @@
 1700 | [멀티탭 스케줄링](https://www.acmicpc.net/problem/1700) | Gold I | Python3
 2169 | [로봇 조종하기](https://www.acmicpc.net/problem/2169) | Gold I | Python3
 2568 | [전깃줄 - 2](https://www.acmicpc.net/problem/2568) | Gold I | Python3
-통계 | 총합 | 159문제
+통계 | 총합 | 164문제
 </div>
 </details>
 
