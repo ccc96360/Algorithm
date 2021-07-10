@@ -180,7 +180,8 @@
 1735 | [분수 합](https://www.acmicpc.net/problem/1735) | Silver III | Java
 5397 | [키로거](https://www.acmicpc.net/problem/5397) | Silver III | Java
 1072 | [게임](https://www.acmicpc.net/problem/1072) | Silver III | Java
-통계 | 총합 | 116문제
+13251 | [조약돌 꺼내기]](https://www.acmicpc.net/problem/13251) | Silver III | Java
+통계 | 총합 | 117문제
 </div>
 </details>
 <details>
@@ -440,8 +441,7 @@
 11401 | [이항 계수3](https://www.acmicpc.net/problem/11401) | Gold I | Python3
 1700 | [멀티탭 스케줄링](https://www.acmicpc.net/problem/1700) | Gold I | Python3
 2169 | [로봇 조종하기](https://www.acmicpc.net/problem/2169) | Gold I | Python3
-2568 | [전깃줄 - 2](https://www.acmicpc.net/problem/2568) | Gold I | Python3
-통계 | 총합 | 164문제
+통계 | 총합 | 163문제
 </div>
 </details>
 
@@ -451,11 +451,13 @@
 
 | 번호 | 문제이름 | 난이도 | 언어 |
 | --- |:---:| :---:| :---:|
-11003 | [최솟값 찾기](https://www.acmicpc.net/problem/11003) | Platinum IV | Java
-2842 | [집배원 한상덕](https://www.acmicpc.net/problem/2842) | Platinum IV | Java
+2568 | [전깃줄 - 2](https://www.acmicpc.net/problem/2568) | Platinum V | Python3
 2517 | [달리기](https://www.acmicpc.net/problem/2517) | Platinum V | Java
+2842 | [집배원 한상덕](https://www.acmicpc.net/problem/2842) | Platinum V | Java
+11003 | [최솟값 찾기](https://www.acmicpc.net/problem/11003) | Platinum IV | Java
+5573 | [산책](https://www.acmicpc.net/problem/5573) | Platinum IV | Java
 
-통계 | 총합 | 3문제
+통계 | 총합 | 4문제
 </div>
 </details>
 
