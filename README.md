@@ -452,12 +452,13 @@
 | 번호 | 문제이름 | 난이도 | 언어 |
 | --- |:---:| :---:| :---:|
 2568 | [전깃줄 - 2](https://www.acmicpc.net/problem/2568) | Platinum V | Python3
-2517 | [달리기](https://www.acmicpc.net/problem/2517) | Platinum V | Java
 2842 | [집배원 한상덕](https://www.acmicpc.net/problem/2842) | Platinum V | Java
-11003 | [최솟값 찾기](https://www.acmicpc.net/problem/11003) | Platinum IV | Java
+2243 | [사탕상자](https://www.acmicpc.net/problem/2243) | Platinum V | Java
+9202 | [Boggle](https://www.acmicpc.net/problem/9202) | Platinum V | Java
+11003 | [최솟값 찾기](https://www.acmicpc.net/problem/11003) | Platinum V | Java
+2517 | [달리기](https://www.acmicpc.net/problem/2517) | Platinum IV | Java
 5573 | [산책](https://www.acmicpc.net/problem/5573) | Platinum IV | Java
-
-통계 | 총합 | 4문제
+통계 | 총합 | 7문제
 </div>
 </details>
 
