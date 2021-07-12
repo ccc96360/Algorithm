@@ -323,7 +323,7 @@
 1987 | [알파벳](https://www.acmicpc.net/problem/1987) | Gold IV | Python3
 2206 | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) | Gold IV | Python3
 2580 | [스도쿠](https://www.acmicpc.net/problem/2580) | Gold IV | Python3, Java
-1717 | [집합의 표현](https://www.acmicpc.net/problem/1717) | Gold IV | Python3
+1717 | [집합의 표현](https://www.acmicpc.net/problem/1717) | Gold IV | Python3, Java
 1197 | [최소 스패닝 트리](https://www.acmicpc.net/problem/1197) | Gold IV | Python3
 1520 | [내리막길](https://www.acmicpc.net/problem/1520) | Gold IV | Python3
 1922 | [네트워크 연결](https://www.acmicpc.net/problem/1922) | Gold IV | Python3
@@ -371,7 +371,7 @@
 1167 | [트리의 지름](https://www.acmicpc.net/problem/1167) | Gold III | Python3
 11049 | [행렬 곱셈 순서](https://www.acmicpc.net/problem/11049) | Gold III | Python3
 1300 | [K번째 수](https://www.acmicpc.net/problem/1300) | Gold III | Python3
-1516 | [게임 개발](https://www.acmicpc.net/problem/1516) | Gold III | Python3
+1516 | [게임 개발](https://www.acmicpc.net/problem/1516) | Gold III | Python3, Java
 2437 | [저울](https://www.acmicpc.net/problem/2437) | Gold III | Python3
 7579 | [앱](https://www.acmicpc.net/problem/7579) | Gold III | Python3
 11437 | [LCA](https://www.acmicpc.net/problem/11437) | Gold III | Python3
@@ -401,7 +401,7 @@
 3425 | [고스택](https://www.acmicpc.net/problem/3425) | Gold III | Java
 1039 | [교환](https://www.acmicpc.net/problem/1039) | Gold III | Java
 2904 | [수학은 너무 쉬워](https://www.acmicpc.net/problem/2904) | Gold III | Java
-2252 | [줄 세우기](https://www.acmicpc.net/problem/2252) | Gold II | Python3
+2252 | [줄 세우기](https://www.acmicpc.net/problem/2252) | Gold II | Python3, Java
 13460 | [구슬 탈출2](https://www.acmicpc.net/problem/13460) | Gold II | Python3
 12100 | [2048(Easy)](https://www.acmicpc.net/problem/12100) | Gold II | Python3
 10942 | [팰린드롬?](https://www.acmicpc.net/problem/10942) | Gold II | Python3
@@ -456,9 +456,10 @@
 2243 | [사탕상자](https://www.acmicpc.net/problem/2243) | Platinum V | Java
 9202 | [Boggle](https://www.acmicpc.net/problem/9202) | Platinum V | Java
 11003 | [최솟값 찾기](https://www.acmicpc.net/problem/11003) | Platinum V | Java
+11438 | [LCA 2](https://www.acmicpc.net/problem/11438) | Platinum V | Java
 2517 | [달리기](https://www.acmicpc.net/problem/2517) | Platinum IV | Java
 5573 | [산책](https://www.acmicpc.net/problem/5573) | Platinum IV | Java
-통계 | 총합 | 7문제
+통계 | 총합 | 8문제
 </div>
 </details>
 
