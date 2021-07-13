@@ -279,7 +279,7 @@
 | 번호 | 문제이름 | 난이도 | 언어 |
 | --- |:---:| :---:| :---:|
 14502 | [연구소](https://www.acmicpc.net/problem/14502) | Gold V | Python3
-1753 | [최단경로](https://www.acmicpc.net/problem/1753) | Gold V | Python3
+1753 | [최단경로](https://www.acmicpc.net/problem/1753) | Gold V | Python3, Java
 14503 | [로봇 청소기](https://www.acmicpc.net/problem/14503) | Gold V | Python3
 9251 | [LCS](https://www.acmicpc.net/problem/9251) | Gold V | Python3
 1759 | [암호 만들기](https://www.acmicpc.net/problem/1759) | Gold V | Python3, Java
@@ -328,7 +328,7 @@
 1520 | [내리막길](https://www.acmicpc.net/problem/1520) | Gold IV | Python3
 1922 | [네트워크 연결](https://www.acmicpc.net/problem/1922) | Gold IV | Python3
 16236 | [아기 상어](https://www.acmicpc.net/problem/16236) | Gold IV | Python3
-11404 | [플로이드](https://www.acmicpc.net/problem/11404) | Gold IV | Python3
+11404 | [플로이드](https://www.acmicpc.net/problem/11404) | Gold IV | Python3, Java
 1707 | [이분 그래프](https://www.acmicpc.net/problem/1707) | Gold IV | Python3
 2448 | [별 찍기 - 11](https://www.acmicpc.net/problem/2448) | Gold IV | Python3
 1261 | [알고스팟](https://www.acmicpc.net/problem/1261) | Gold IV | Python3
@@ -457,9 +457,13 @@
 9202 | [Boggle](https://www.acmicpc.net/problem/9202) | Platinum V | Java
 11003 | [최솟값 찾기](https://www.acmicpc.net/problem/11003) | Platinum V | Java
 11438 | [LCA 2](https://www.acmicpc.net/problem/11438) | Platinum V | Java
+5719 | [거의 최단 경로](https://www.acmicpc.net/problem/5719) | Platinum V | Java
+1854 | [K번째 최단경로 찾기](https://www.acmicpc.net/problem/1854) | Platinum V | Java
 2517 | [달리기](https://www.acmicpc.net/problem/2517) | Platinum IV | Java
 5573 | [산책](https://www.acmicpc.net/problem/5573) | Platinum IV | Java
-통계 | 총합 | 8문제
+3176 | [도로 네트워크](https://www.acmicpc.net/problem/3176) | Platinum IV | Java
+3830 | [교수님은 기다리지 않는다.](https://www.acmicpc.net/problem/3830) | Platinum III | Java
+통계 | 총합 | 11문제
 </div>
 </details>
 
