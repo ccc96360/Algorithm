@@ -360,6 +360,7 @@
 2600 | [구슬게임](https://www.acmicpc.net/problem/2600) | Gold IV | Python3
 12107 | [약수 지우기 게임 1](https://www.acmicpc.net/problem/12107) | Gold IV | Python3
 1026 | [가르침](https://www.acmicpc.net/problem/1026) | Gold IV | Java
+11657 | [타임머신](https://www.acmicpc.net/problem/11657) | Gold IV | Java
 14890 | [경사로](https://www.acmicpc.net/problem/14890) | Gold III | Python3
 1644 | [소수의 연속합](https://www.acmicpc.net/problem/1644) | Gold III | Python3
 11054 | [가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054) | Gold III | Python3
@@ -441,7 +442,7 @@
 11401 | [이항 계수3](https://www.acmicpc.net/problem/11401) | Gold I | Python3
 1700 | [멀티탭 스케줄링](https://www.acmicpc.net/problem/1700) | Gold I | Python3
 2169 | [로봇 조종하기](https://www.acmicpc.net/problem/2169) | Gold I | Python3
-통계 | 총합 | 163문제
+통계 | 총합 | 164문제
 </div>
 </details>
 
@@ -459,11 +460,12 @@
 11438 | [LCA 2](https://www.acmicpc.net/problem/11438) | Platinum V | Java
 5719 | [거의 최단 경로](https://www.acmicpc.net/problem/5719) | Platinum V | Java
 1854 | [K번째 최단경로 찾기](https://www.acmicpc.net/problem/1854) | Platinum V | Java
+9426 | [중앙값 측정](https://www.acmicpc.net/problem/9426) | Platinum V | Java
 2517 | [달리기](https://www.acmicpc.net/problem/2517) | Platinum IV | Java
 5573 | [산책](https://www.acmicpc.net/problem/5573) | Platinum IV | Java
 3176 | [도로 네트워크](https://www.acmicpc.net/problem/3176) | Platinum IV | Java
 3830 | [교수님은 기다리지 않는다.](https://www.acmicpc.net/problem/3830) | Platinum III | Java
-통계 | 총합 | 11문제
+통계 | 총합 | 13문제
 </div>
 </details>
 
