@@ -158,7 +158,7 @@
 2003 | [수들의 합 2](https://www.acmicpc.net/problem/2003) | Silver III | Python3, Java
 10974 | [모든 순열](https://www.acmicpc.net/problem/10974) | Silver III | Python3
 2630 | [색종이 만들기](https://www.acmicpc.net/problem/2630) | Silver III | Python3
-11659 | [구간 합 구하기 4](https://www.acmicpc.net/problem/11659) | Silver III | Python3
+11659 | [구간 합 구하기 4](https://www.acmicpc.net/problem/11659) | Silver III | Python3, Java
 1057 | [토너먼트](https://www.acmicpc.net/problem/1057) | Silver III | Python3
 9322 | [철벽 보안 알고리즘](https://www.acmicpc.net/problem/9322) | Silver III | Python3
 14425 | [문자열 집합](https://www.acmicpc.net/problem/14425) | Silver III | Python3
@@ -180,8 +180,9 @@
 1735 | [분수 합](https://www.acmicpc.net/problem/1735) | Silver III | Java
 5397 | [키로거](https://www.acmicpc.net/problem/5397) | Silver III | Java
 1072 | [게임](https://www.acmicpc.net/problem/1072) | Silver III | Java
-13251 | [조약돌 꺼내기]](https://www.acmicpc.net/problem/13251) | Silver III | Java
-통계 | 총합 | 117문제
+13251 | [조약돌 꺼내기](https://www.acmicpc.net/problem/13251) | Silver III | Java
+2579 | [계단 오르기](https://www.acmicpc.net/problem/2579) | Silver III | Java
+통계 | 총합 | 118문제
 </div>
 </details>
 <details>
@@ -234,7 +235,7 @@
 1149 | [RGB거리](https://www.acmicpc.net/problem/1149) | Silver I | Python3
 2667 | [단지번호붙이기](https://www.acmicpc.net/problem/2667) | Silver I | Python3
 11047 | [동전 0](https://www.acmicpc.net/problem/11047) | Silver I | Python3
-1932 | [정수 삼각형](https://www.acmicpc.net/problem/1932) | Silver I | Python3
+1932 | [정수 삼각형](https://www.acmicpc.net/problem/1932) | Silver I | Python3, Java
 7576 | [토마토](https://www.acmicpc.net/problem/7576) | Silver I | Python3
 1697 | [숨바꼭질](https://www.acmicpc.net/problem/1697) | Silver I | Python3
 2156 | [포도주 시식](https://www.acmicpc.net/problem/2156) | Silver I | Python3
@@ -266,7 +267,8 @@
 11286 | [절대값 힙](https://www.acmicpc.net/problem/11286) | Silver I | Java
 5639 | [이진 검색 트리](https://www.acmicpc.net/problem/5639) | Silver I | Java
 1722 | [순열의 순서](https://www.acmicpc.net/problem/1722) | Silver I | Java
-통계 | 총합 | 75문제
+11660 | [구간 합 구하기 5](https://www.acmicpc.net/problem/11660) | 구간 합 구하기 5 I | Java
+통계 | 총합 | 76문제
 </div>
 </details>
 </details>
@@ -288,7 +290,7 @@
 10026 | [적록색약](https://www.acmicpc.net/problem/10026) | Gold V | Python3
 3190 | [뱀](https://www.acmicpc.net/problem/3190) | Gold V | Python3
 14499 | [주사위 굴리기](https://www.acmicpc.net/problem/14499) | Gold V | Python3
-12865 | [평범한 배낭](https://www.acmicpc.net/problem/12865) | Gold V | Python3
+12865 | [평범한 배낭](https://www.acmicpc.net/problem/12865) | Gold V | Python3, Java
 2225 | [합분해](https://www.acmicpc.net/problem/2225) | Gold V | Python3
 1107 | [리모컨](https://www.acmicpc.net/problem/1107) | Gold V | Python3
 1916 | [최소비용 구하기](https://www.acmicpc.net/problem/1916) | Gold V | Python3
@@ -374,7 +376,7 @@
 1300 | [K번째 수](https://www.acmicpc.net/problem/1300) | Gold III | Python3
 1516 | [게임 개발](https://www.acmicpc.net/problem/1516) | Gold III | Python3, Java
 2437 | [저울](https://www.acmicpc.net/problem/2437) | Gold III | Python3
-7579 | [앱](https://www.acmicpc.net/problem/7579) | Gold III | Python3
+7579 | [앱](https://www.acmicpc.net/problem/7579) | Gold III | Python3, Java
 11437 | [LCA](https://www.acmicpc.net/problem/11437) | Gold III | Python3
 2352 | [반도체 설계](https://www.acmicpc.net/problem/2352) | Gold III | Python3
 16637 | [괄호 추가하기](https://www.acmicpc.net/problem/16637) | Gold III | Python3
@@ -461,11 +463,13 @@
 5719 | [거의 최단 경로](https://www.acmicpc.net/problem/5719) | Platinum V | Java
 1854 | [K번째 최단경로 찾기](https://www.acmicpc.net/problem/1854) | Platinum V | Java
 9426 | [중앙값 측정](https://www.acmicpc.net/problem/9426) | Platinum V | Java
+3860 | [할로윈 묘지](https://www.acmicpc.net/problem/3860) | Platinum V | Java
+14003 | [가장 긴 증가하는 부분 수열 5](https://www.acmicpc.net/problem/14003) | Platinum V | Java
 2517 | [달리기](https://www.acmicpc.net/problem/2517) | Platinum IV | Java
 5573 | [산책](https://www.acmicpc.net/problem/5573) | Platinum IV | Java
 3176 | [도로 네트워크](https://www.acmicpc.net/problem/3176) | Platinum IV | Java
 3830 | [교수님은 기다리지 않는다.](https://www.acmicpc.net/problem/3830) | Platinum III | Java
-통계 | 총합 | 13문제
+통계 | 총합 | 14문제
 </div>
 </details>
 
