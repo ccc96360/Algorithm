@@ -303,7 +303,7 @@
 7662 | [이중 우선순위 큐](https://www.acmicpc.net/problem/7662) | Gold V | Python3
 2493 | [탑](https://www.acmicpc.net/problem/2493) | Gold V | Python3
 9019 | [DSLR](https://www.acmicpc.net/problem/9019) | Gold V | Python3
-9252 | [LCS2](https://www.acmicpc.net/problem/9252) | Gold V | Python3
+9252 | [LCS2](https://www.acmicpc.net/problem/9252) | Gold V | Python3, Java
 17070 | [파이프 옮기기 1](https://www.acmicpc.net/problem/17070) | Gold V | Python3
 17069 | [파이프 옮기기 2](https://www.acmicpc.net/problem/17069) | Gold V | Python3
 2812 | [크게 만들기](https://www.acmicpc.net/problem/2812) | Gold V | Python3
@@ -322,6 +322,7 @@
 2636 | [N-Queen](https://www.acmicpc.net/problem/2636) | Gold V | Java
 3020 | [개똥벌레](https://www.acmicpc.net/problem/3020) | Gold V | Java
 5569 | [출근 경로](https://www.acmicpc.net/problem/5569) | Gold V | Java
+5582 | [공통 부분 문자열](https://www.acmicpc.net/problem/5582) | Gold V | Java
 1987 | [알파벳](https://www.acmicpc.net/problem/1987) | Gold IV | Python3
 2206 | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) | Gold IV | Python3
 2580 | [스도쿠](https://www.acmicpc.net/problem/2580) | Gold IV | Python3, Java
@@ -444,7 +445,8 @@
 11401 | [이항 계수3](https://www.acmicpc.net/problem/11401) | Gold I | Python3
 1700 | [멀티탭 스케줄링](https://www.acmicpc.net/problem/1700) | Gold I | Python3
 2169 | [로봇 조종하기](https://www.acmicpc.net/problem/2169) | Gold I | Python3
-통계 | 총합 | 164문제
+1102 | [발전소](https://www.acmicpc.net/problem/1102) | Gold I | Java
+통계 | 총합 | 166문제
 </div>
 </details>
 
@@ -465,6 +467,7 @@
 9426 | [중앙값 측정](https://www.acmicpc.net/problem/9426) | Platinum V | Java
 3860 | [할로윈 묘지](https://www.acmicpc.net/problem/3860) | Platinum V | Java
 14003 | [가장 긴 증가하는 부분 수열 5](https://www.acmicpc.net/problem/14003) | Platinum V | Java
+7578 | [공장](https://www.acmicpc.net/problem/7578) | Platinum V | Java
 2517 | [달리기](https://www.acmicpc.net/problem/2517) | Platinum IV | Java
 5573 | [산책](https://www.acmicpc.net/problem/5573) | Platinum IV | Java
 3176 | [도로 네트워크](https://www.acmicpc.net/problem/3176) | Platinum IV | Java
