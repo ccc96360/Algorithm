@@ -468,11 +468,13 @@
 3860 | [할로윈 묘지](https://www.acmicpc.net/problem/3860) | Platinum V | Java
 14003 | [가장 긴 증가하는 부분 수열 5](https://www.acmicpc.net/problem/14003) | Platinum V | Java
 7578 | [공장](https://www.acmicpc.net/problem/7578) | Platinum V | Java
+11266 | [단절점](https://www.acmicpc.net/problem/11266) | Platinum V | Java
+11400 | [단절선](https://www.acmicpc.net/problem/11400) | Platinum V | Java
 2517 | [달리기](https://www.acmicpc.net/problem/2517) | Platinum IV | Java
 5573 | [산책](https://www.acmicpc.net/problem/5573) | Platinum IV | Java
 3176 | [도로 네트워크](https://www.acmicpc.net/problem/3176) | Platinum IV | Java
 3830 | [교수님은 기다리지 않는다.](https://www.acmicpc.net/problem/3830) | Platinum III | Java
-통계 | 총합 | 14문제
+통계 | 총합 | 18문제
 </div>
 </details>
 
