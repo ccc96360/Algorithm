@@ -446,7 +446,8 @@
 1700 | [멀티탭 스케줄링](https://www.acmicpc.net/problem/1700) | Gold I | Python3
 2169 | [로봇 조종하기](https://www.acmicpc.net/problem/2169) | Gold I | Python3
 1102 | [발전소](https://www.acmicpc.net/problem/1102) | Gold I | Java
-통계 | 총합 | 166문제
+2268 | [수들의 합](https://www.acmicpc.net/problem/2268) | Gold I | Java
+통계 | 총합 | 167문제
 </div>
 </details>
 
