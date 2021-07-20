@@ -487,7 +487,7 @@
 <div markdown="1">
 
 | 문제이름 | 난이도 | 비고 | 언어 |
-| --- |:---:| :---:| :---:| :---:|
+| --- |:---:| :---:| :---:|
 [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256) | Level 1 | 2020 카카오 인턴십 | Python3
 [수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257) | Level 2 | 2020 카카오 인턴십 | Python3
 [보석 쇼핑](https://programmers.co.kr/learn/courses/30/lessons/67258) | Level 3 | 2020 카카오 인턴십 | Python3
