@@ -448,7 +448,8 @@
 2169 | [로봇 조종하기](https://www.acmicpc.net/problem/2169) | Gold I | Python3
 1102 | [발전소](https://www.acmicpc.net/problem/1102) | Gold I | Java
 2268 | [수들의 합](https://www.acmicpc.net/problem/2268) | Gold I | Java
-통계 | 총합 | 167문제
+14438 | [수열과 쿼리17](https://www.acmicpc.net/problem/14438) | Gold I | Java
+통계 | 총합 | 168문제
 </div>
 </details>
 
