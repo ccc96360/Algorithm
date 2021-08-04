@@ -268,8 +268,10 @@
 11286 | [절대값 힙](https://www.acmicpc.net/problem/11286) | Silver I | Java
 5639 | [이진 검색 트리](https://www.acmicpc.net/problem/5639) | Silver I | Java
 1722 | [순열의 순서](https://www.acmicpc.net/problem/1722) | Silver I | Java
-11660 | [구간 합 구하기 5](https://www.acmicpc.net/problem/11660) | 구간 합 구하기 5 I | Java
-통계 | 총합 | 76문제
+11660 | [구간 합 구하기 5](https://www.acmicpc.net/problem/11660) | Silver I | Java
+1946 | [신입 사원](https://www.acmicpc.net/problem/1946) | Silver I | Java
+2011 | [암호코드](https://www.acmicpc.net/problem/2011) | Silver I | Java
+통계 | 총합 | 78문제
 </div>
 </details>
 </details>
