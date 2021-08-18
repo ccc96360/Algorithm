@@ -138,6 +138,7 @@
 11653 | [소인수분해](https://www.acmicpc.net/problem/11653) | Silver IV | Java
 2960 | [에라토스테네스의 체](https://www.acmicpc.net/problem/2960) | Silver IV | Java
 2729 | [이진수 덧셈](https://www.acmicpc.net/problem/2729) | Silver IV | Java
+22858 | [원상 복구(small)](https://www.acmicpc.net/problem/22858) | Silver IV | Java
 1463 | [1로 만들기](https://www.acmicpc.net/problem/1463) | Silver III | Python3
 9095 | [1,2,3 더하기](https://www.acmicpc.net/problem/9095) | Silver III | Python3
 1003 | [피보나치 함수](https://www.acmicpc.net/problem/1003) | Silver III | Python3
@@ -183,7 +184,7 @@
 1072 | [게임](https://www.acmicpc.net/problem/1072) | Silver III | Java
 13251 | [조약돌 꺼내기](https://www.acmicpc.net/problem/13251) | Silver III | Java
 2579 | [계단 오르기](https://www.acmicpc.net/problem/2579) | Silver III | Java
-통계 | 총합 | 118문제
+통계 | 총합 | 119문제
 </div>
 </details>
 <details>
