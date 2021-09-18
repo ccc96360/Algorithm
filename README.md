@@ -491,10 +491,6 @@
 <summary>프로그래머스</summary>
 <div markdown="1">
 
-| 문제이름 | 난이도 | 비고 | 언어 |
-| --- |:---:| :---:| :---:|
-총합 | 16문제
-
 <details>
 <summary>Level 1</summary>
 <div markdown="1">
