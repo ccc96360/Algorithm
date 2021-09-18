@@ -493,25 +493,21 @@
 
 | 문제이름 | 난이도 | 비고 | 언어 |
 | --- |:---:| :---:| :---:|
-[키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256) | Level 1 | 2020 카카오 인턴십 | Python3
-[수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257) | Level 2 | 2020 카카오 인턴십 | Python3
-[보석 쇼핑](https://programmers.co.kr/learn/courses/30/lessons/67258) | Level 3 | 2020 카카오 인턴십 | Python3
-[신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410) | Level 1 | 2021 카카오 BLIND RECRUITMENT | Python3
-[메뉴_리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411) | Level 2 | 2021 카카오 BLIND RECRUITMENT | Python3
-[순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412) | Level 2 | 2021 카카오 BLIND RECRUITMENT | Python3
-[합승 택시 요금](https://programmers.co.kr/learn/courses/30/lessons/72413) | Level 3 | 2021 카카오 BLIND RECRUITMENT | Python3
-[광고 삽입](https://programmers.co.kr/learn/courses/30/lessons/72414) | Level 3 | 2021 카카오 BLIND RECRUITMENT | Python3
-[문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057) | Level 2 | 2020 카카오 BLIND RECRUITMENT | Python3
-[괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058) | Level 2 | 2020 카카오 BLIND RECRUITMENT | Python3
-[로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484) | Level 1 | 2021 Dev-Matching 웹 백엔드 개발자(상반기) | Python3
-[행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485) | Level 2 | 2021 Dev-Matching 웹 백엔드 개발자(상반기) | Python3
-[다단계 칫솔 판매](https://programmers.co.kr/learn/courses/30/lessons/77486) | Level 3 | 2021 Dev-Matching 웹 백엔드 개발자(상반기) | Python3
-[크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061) | Level 3 | 2021 Dev-Matching 웹 백엔드 개발자(상반기) | Java
-[배달](https://programmers.co.kr/learn/courses/30/lessons/12978) | Level 2 | Summer/Winter Coding(~2018) | Java
-[섬 연결하기](https://programmers.co.kr/learn/courses/30/lessons/42861) | Level 3 | 코딩테스트 연습 / 탐욕법 | Java
 총합 | 16문제
 
+<details>
+<summary>Level 1</summary>
+<div markdown="1">
 
+문제이름 | 출처 | 언어 |
+| --- | :---:| :---:|
+[키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256) | 2020 카카오 인턴십 | Python3
+[신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410) | 2021 카카오 BLIND RECRUITMENT | Python3
+[로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484) | 2021 Dev-Matching 웹 백엔드 개발자(상반기) | Python3
+[크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061) | 2019 카카오 개발자 겨울 인턴십 | Java
+통계 | 총합 | 4문제
+</div>
+</details>
 
 <details>
 <summary>Level 2</summary>
@@ -522,8 +518,32 @@
 [오픈 채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888) | 2019 KAKAO BLIND RECRUITMENT  | Java
 [카카오프렌즈 컬러링북](https://programmers.co.kr/learn/courses/30/lessons/1829) | 2017 카카오 코드 예선  | Java
 [단체 사진 찍기](https://programmers.co.kr/learn/courses/30/lessons/1835) | 2017 카카오 코드 본선  | Java
-통계 | 총합 | 3문제
+[수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257) | 2020 카카오 인턴십 | Python3
+[메뉴_리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411) | 2021 카카오 BLIND RECRUITMENT | Python3
+[순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412) | 2021 카카오 BLIND RECRUITMENT | Python3
+[문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057) | 2020 카카오 BLIND RECRUITMENT | Python3
+[괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058) | 2020 카카오 BLIND RECRUITMENT | Python3
+[행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485) | 2021 Dev-Matching 웹 백엔드 개발자(상반기) | Python3
+[배달](https://programmers.co.kr/learn/courses/30/lessons/12978) | Summer/Winter Coding(~2018) | Java
+통계 | 총합 | 10문제
 </div>
 </details>
+
+<details>
+<summary>Level 3</summary>
+<div markdown="1">
+
+문제이름 | 출처 | 언어 |
+| --- | :---:| :---:|
+[보석 쇼핑](https://programmers.co.kr/learn/courses/30/lessons/67258) | 2020 카카오 인턴십 | Python3
+[합승 택시 요금](https://programmers.co.kr/learn/courses/30/lessons/72413) | 2021 카카오 BLIND RECRUITMENT | Python3
+[광고 삽입](https://programmers.co.kr/learn/courses/30/lessons/72414) | 2021 카카오 BLIND RECRUITMENT | Python3
+[카드 짝 맞추기](https://programmers.co.kr/learn/courses/30/lessons/72415) | 2021 카카오 BLIND RECRUITMENT | Python3
+[다단계 칫솔 판매](https://programmers.co.kr/learn/courses/30/lessons/77486) | 2021 Dev-Matching 웹 백엔드 개발자(상반기) | Python3
+[섬 연결하기](https://programmers.co.kr/learn/courses/30/lessons/42861) | 코딩테스트 연습 / 탐욕법 | Java
+통계 | 총합 | 6문제
+</div>
+</details>
+
 </div>
 </details>

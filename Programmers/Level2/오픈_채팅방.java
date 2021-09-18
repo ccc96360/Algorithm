@@ -1,4 +1,4 @@
-//오픈 채팅방 2019 KAKAO BLIND REQRUITMENT 20210918
+//오픈 채팅방 2019 KAKAO BLIND RECRUITMENT 20210918
 import java.util.*;
 import java.util.stream.Collectors;
 
