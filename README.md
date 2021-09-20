@@ -521,7 +521,8 @@
 [괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058) | 2020 카카오 BLIND RECRUITMENT | Python3
 [행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485) | 2021 Dev-Matching 웹 백엔드 개발자(상반기) | Python3
 [배달](https://programmers.co.kr/learn/courses/30/lessons/12978) | Summer/Winter Coding(~2018) | Java
-통계 | 총합 | 10문제
+[124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899#) | 연습문제 | Java
+통계 | 총합 | 11문제
 </div>
 </details>
 
