@@ -526,7 +526,8 @@
 [짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973) | 2017 팁스타운 | Java
 [뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677) | 2018 카카오 BLIND RECRUITMENT | Java
 [거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302) | 2021 카카오 채용연계형 인턴십 | Java
-통계 | 총합 | 15문제
+[튜플](https://programmers.co.kr/learn/courses/30/lessons/64065) | 2019 카카오 개발자 겨울 인턴십 | Java
+통계 | 총합 | 16문제
 </div>
 </details>
 
