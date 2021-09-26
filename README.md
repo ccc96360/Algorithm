@@ -528,8 +528,9 @@
 [거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302) | 2021 카카오 채용연계형 인턴십 | Java
 [튜플](https://programmers.co.kr/learn/courses/30/lessons/64065) | 2019 카카오 개발자 겨울 인턴십 | Java
 [빛의 경로 사이클](https://programmers.co.kr/learn/courses/30/lessons/86052) | 월간 코드 챌린지 시즌3 | Java
-[가장 큰 수]](https://programmers.co.kr/learn/courses/30/lessons/42746) | 코딩테스트 연습 / 정렬 | Java
-통계 | 총합 | 18문제
+[가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746) | 코딩테스트 연습 / 정렬 | Java
+[소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) | 코딩테스트 연습 / 완전탐색 | Java
+통계 | 총합 | 19문제
 </div>
 </details>
 
