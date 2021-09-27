@@ -530,7 +530,9 @@
 [빛의 경로 사이클](https://programmers.co.kr/learn/courses/30/lessons/86052) | 월간 코드 챌린지 시즌3 | Java
 [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746) | 코딩테스트 연습 / 정렬 | Java
 [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) | 코딩테스트 연습 / 완전탐색 | Java
-통계 | 총합 | 19문제
+[조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860) | 코딩테스트 연습 / 탐욕법 | Java
+[게임 맵 최단거리](https://programmers.co.kr/learn/courses/30/lessons/1844) | 찾아라 프로그래밍 마에스터 | Java
+통계 | 총합 | 21문제
 </div>
 </details>
 
