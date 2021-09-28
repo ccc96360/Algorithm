@@ -532,7 +532,9 @@
 [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) | 코딩테스트 연습 / 완전탐색 | Java
 [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860) | 코딩테스트 연습 / 탐욕법 | Java
 [게임 맵 최단거리](https://programmers.co.kr/learn/courses/30/lessons/1844) | 찾아라 프로그래밍 마에스터 | Java
-통계 | 총합 | 21문제
+[예상 대진표](https://programmers.co.kr/learn/courses/30/lessons/12985) | 2017 팁스타운 | Java
+[후보키](https://programmers.co.kr/learn/courses/30/lessons/42890) | 2019 KAKAO BLIND RECRUITMENT  | Java
+통계 | 총합 | 23문제
 </div>
 </details>
 
