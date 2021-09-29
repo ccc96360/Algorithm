@@ -534,7 +534,9 @@
 [게임 맵 최단거리](https://programmers.co.kr/learn/courses/30/lessons/1844) | 찾아라 프로그래밍 마에스터 | Java
 [예상 대진표](https://programmers.co.kr/learn/courses/30/lessons/12985) | 2017 팁스타운 | Java
 [후보키](https://programmers.co.kr/learn/courses/30/lessons/42890) | 2019 KAKAO BLIND RECRUITMENT  | Java
-통계 | 총합 | 23문제
+[괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502) | 월간 코드 챌린지 시즌2  | Java
+[위장](https://programmers.co.kr/learn/courses/30/lessons/42578) | 코딩테스트 연습 / 해시  | Java
+통계 | 총합 | 25문제
 </div>
 </details>
 
