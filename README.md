@@ -536,7 +536,9 @@
 [후보키](https://programmers.co.kr/learn/courses/30/lessons/42890) | 2019 KAKAO BLIND RECRUITMENT  | Java
 [괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502) | 월간 코드 챌린지 시즌2  | Java
 [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) | 코딩테스트 연습 / 해시  | Java
-통계 | 총합 | 25문제
+[H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747) | 코딩테스트 연습 / 정렬  | Java
+[큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883) | 코딩테스트 연습 / 탐욕법  | Java
+통계 | 총합 | 27문제
 </div>
 </details>
 
