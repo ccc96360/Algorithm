@@ -511,7 +511,7 @@
 
 문제이름 | 출처 | 언어 |
 | --- | :---:| :---:|
-[오픈 채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888) | 2019 KAKAO BLIND RECRUITMENT  | Java
+[오픈 채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888) | 2019 카카오 BLIND RECRUITMENT  | Java
 [카카오프렌즈 컬러링북](https://programmers.co.kr/learn/courses/30/lessons/1829) | 2017 카카오 코드 예선  | Java
 [단체 사진 찍기](https://programmers.co.kr/learn/courses/30/lessons/1835) | 2017 카카오 코드 본선  | Java
 [수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257) | 2020 카카오 인턴십 | Python3
@@ -533,12 +533,14 @@
 [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860) | 코딩테스트 연습 / 탐욕법 | Java
 [게임 맵 최단거리](https://programmers.co.kr/learn/courses/30/lessons/1844) | 찾아라 프로그래밍 마에스터 | Java
 [예상 대진표](https://programmers.co.kr/learn/courses/30/lessons/12985) | 2017 팁스타운 | Java
-[후보키](https://programmers.co.kr/learn/courses/30/lessons/42890) | 2019 KAKAO BLIND RECRUITMENT  | Java
+[후보키](https://programmers.co.kr/learn/courses/30/lessons/42890) | 2019 카카오 BLIND RECRUITMENT  | Java
 [괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502) | 월간 코드 챌린지 시즌2  | Java
 [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) | 코딩테스트 연습 / 해시  | Java
 [H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747) | 코딩테스트 연습 / 정렬  | Java
 [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883) | 코딩테스트 연습 / 탐욕법  | Java
-통계 | 총합 | 27문제
+[(1차)프렌즈4블록](https://programmers.co.kr/learn/courses/30/lessons/17679) | 2018 카카오 BLIND RECRUITMENT  | Java
+[2개 이하로 다른 비트](https://programmers.co.kr/learn/courses/30/lessons/77885) | 월간 코드 챌린지 시즌2  | Java
+통계 | 총합 | 29문제
 </div>
 </details>
 
