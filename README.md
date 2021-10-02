@@ -514,6 +514,7 @@
 [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899#) | 연습문제 | Java
 [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626) | 연습문제 | Java
 [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) | 코딩테스트 연습 / 완전탐색 | Java
+[주식 가격](https://programmers.co.kr/learn/courses/30/lessons/42839) | 코딩테스트 연습 / 스택/큐 | Java
 [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746) | 코딩테스트 연습 / 정렬 | Java
 [H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747) | 코딩테스트 연습 / 정렬  | Java
 [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) | 코딩테스트 연습 / 해시  | Java
@@ -536,11 +537,13 @@
 [짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973) | 2017 팁스타운 | Java
 [예상 대진표](https://programmers.co.kr/learn/courses/30/lessons/12985) | 2017 팁스타운 | Java
 [배달](https://programmers.co.kr/learn/courses/30/lessons/12978) | Summer/Winter Coding(~2018) | Java
+[영어 끝말잇기](https://programmers.co.kr/learn/courses/30/lessons/12981) | Summer/Winter Coding(~2018) | Java
 [게임 맵 최단거리](https://programmers.co.kr/learn/courses/30/lessons/1844) | 찾아라 프로그래밍 마에스터 | Java
+[삼각 달팽이](https://programmers.co.kr/learn/courses/30/lessons/68645) | 월간 코드 챌린지 시즌1  | Java
 [괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502) | 월간 코드 챌린지 시즌2  | Java
 [2개 이하로 다른 비트](https://programmers.co.kr/learn/courses/30/lessons/77885) | 월간 코드 챌린지 시즌2  | Java
 [빛의 경로 사이클](https://programmers.co.kr/learn/courses/30/lessons/86052) | 월간 코드 챌린지 시즌3 | Java
-통계 | 총합 | 29문제
+통계 | 총합 | 32문제
 </div>
 </details>
 
