@@ -525,6 +525,7 @@
 [단체 사진 찍기](https://programmers.co.kr/learn/courses/30/lessons/1835) | 2017 카카오 코드 본선  | Java
 [뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677) | 2018 카카오 BLIND RECRUITMENT | Java
 [(1차)프렌즈4블록](https://programmers.co.kr/learn/courses/30/lessons/17679) | 2018 카카오 BLIND RECRUITMENT  | Java
+[(1차) 캐시](https://programmers.co.kr/learn/courses/30/lessons/17680) | 2018 카카오 BLIND RECRUITMENT  | Java
 [오픈 채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888) | 2019 카카오 BLIND RECRUITMENT  | Java
 [후보키](https://programmers.co.kr/learn/courses/30/lessons/42890) | 2019 카카오 BLIND RECRUITMENT  | Java
 [튜플](https://programmers.co.kr/learn/courses/30/lessons/64065) | 2019 카카오 개발자 겨울 인턴십 | Java
@@ -544,7 +545,8 @@
 [괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502) | 월간 코드 챌린지 시즌2  | Java
 [2개 이하로 다른 비트](https://programmers.co.kr/learn/courses/30/lessons/77885) | 월간 코드 챌린지 시즌2  | Java
 [빛의 경로 사이클](https://programmers.co.kr/learn/courses/30/lessons/86052) | 월간 코드 챌린지 시즌3 | Java
-통계 | 총합 | 32문제
+[전력망을 둘로 나누기](https://programmers.co.kr/learn/courses/30/lessons/86971) | 위클리 챌린지 9주차 | Java
+통계 | 총합 | 34문제
 </div>
 </details>
 
