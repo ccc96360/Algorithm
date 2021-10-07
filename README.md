@@ -539,16 +539,18 @@
 [짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973) | 2017 팁스타운 | Java
 [예상 대진표](https://programmers.co.kr/learn/courses/30/lessons/12985) | 2017 팁스타운 | Java
 [배달](https://programmers.co.kr/learn/courses/30/lessons/12978) | Summer/Winter Coding(~2018) | Java
+[점프와 순간 이동](https://programmers.co.kr/learn/courses/30/lessons/12980) | Summer/Winter Coding(~2018) | Java
 [영어 끝말잇기](https://programmers.co.kr/learn/courses/30/lessons/12981) | Summer/Winter Coding(~2018) | Java
 [게임 맵 최단거리](https://programmers.co.kr/learn/courses/30/lessons/1844) | 찾아라 프로그래밍 마에스터 | Java
 [삼각 달팽이](https://programmers.co.kr/learn/courses/30/lessons/68645) | 월간 코드 챌린지 시즌1  | Java
+[이진 변환 반복하기](https://programmers.co.kr/learn/courses/30/lessons/70129) | 월간 코드 챌린지 시즌1  | Java
 [괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502) | 월간 코드 챌린지 시즌2  | Java
 [2개 이하로 다른 비트](https://programmers.co.kr/learn/courses/30/lessons/77885) | 월간 코드 챌린지 시즌2  | Java
 [빛의 경로 사이클](https://programmers.co.kr/learn/courses/30/lessons/86052) | 월간 코드 챌린지 시즌3 | Java
 [모음 사전](https://programmers.co.kr/learn/courses/30/lessons/84512) | 위클리 챌린지 5주차 | Java
 [입실 퇴실](https://programmers.co.kr/learn/courses/30/lessons/86048) | 위클리 챌린지 7주차 | Java
 [전력망을 둘로 나누기](https://programmers.co.kr/learn/courses/30/lessons/86971) | 위클리 챌린지 9주차 | Java
-통계 | 총합 | 36문제
+통계 | 총합 | 37문제
 </div>
 </details>
 
