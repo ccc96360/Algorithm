@@ -541,6 +541,8 @@
 [배달](https://programmers.co.kr/learn/courses/30/lessons/12978) | Summer/Winter Coding(~2018) | Java
 [점프와 순간 이동](https://programmers.co.kr/learn/courses/30/lessons/12980) | Summer/Winter Coding(~2018) | Java
 [영어 끝말잇기](https://programmers.co.kr/learn/courses/30/lessons/12981) | Summer/Winter Coding(~2018) | Java
+[스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993) | Summer/Winter Coding(~2018) | Java
+[방문 길이](https://programmers.co.kr/learn/courses/30/lessons/49994) | Summer/Winter Coding(~2018) | Java
 [게임 맵 최단거리](https://programmers.co.kr/learn/courses/30/lessons/1844) | 찾아라 프로그래밍 마에스터 | Java
 [삼각 달팽이](https://programmers.co.kr/learn/courses/30/lessons/68645) | 월간 코드 챌린지 시즌1  | Java
 [쿼드압축 후 개수 세기](https://programmers.co.kr/learn/courses/30/lessons/68936) | 월간 코드 챌린지 시즌1  | Java
@@ -551,7 +553,7 @@
 [모음 사전](https://programmers.co.kr/learn/courses/30/lessons/84512) | 위클리 챌린지 5주차 | Java
 [입실 퇴실](https://programmers.co.kr/learn/courses/30/lessons/86048) | 위클리 챌린지 7주차 | Java
 [전력망을 둘로 나누기](https://programmers.co.kr/learn/courses/30/lessons/86971) | 위클리 챌린지 9주차 | Java
-통계 | 총합 | 39문제
+통계 | 총합 | 41문제
 </div>
 </details>
 
