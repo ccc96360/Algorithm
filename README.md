@@ -526,6 +526,7 @@
 [뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677) | 2018 카카오 BLIND RECRUITMENT | Java
 [(1차)프렌즈4블록](https://programmers.co.kr/learn/courses/30/lessons/17679) | 2018 카카오 BLIND RECRUITMENT  | Java
 [(1차) 캐시](https://programmers.co.kr/learn/courses/30/lessons/17680) | 2018 카카오 BLIND RECRUITMENT  | Java
+[(3차) 방금그곡](https://programmers.co.kr/learn/courses/30/lessons/17683) | 2018 카카오 BLIND RECRUITMENT  | Java
 [오픈 채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888) | 2019 카카오 BLIND RECRUITMENT  | Java
 [후보키](https://programmers.co.kr/learn/courses/30/lessons/42890) | 2019 카카오 BLIND RECRUITMENT  | Java
 [튜플](https://programmers.co.kr/learn/courses/30/lessons/64065) | 2019 카카오 개발자 겨울 인턴십 | Java
@@ -553,7 +554,7 @@
 [모음 사전](https://programmers.co.kr/learn/courses/30/lessons/84512) | 위클리 챌린지 5주차 | Java
 [입실 퇴실](https://programmers.co.kr/learn/courses/30/lessons/86048) | 위클리 챌린지 7주차 | Java
 [전력망을 둘로 나누기](https://programmers.co.kr/learn/courses/30/lessons/86971) | 위클리 챌린지 9주차 | Java
-통계 | 총합 | 41문제
+통계 | 총합 | 42문제
 </div>
 </details>
 
