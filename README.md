@@ -501,8 +501,13 @@
 [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256) | 2020 카카오 인턴십 | Python3
 [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410) | 2021 카카오 BLIND RECRUITMENT | Python3
 [로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484) | 2021 Dev-Matching 웹 백엔드 개발자(상반기) | Python3
+[내적](https://programmers.co.kr/learn/courses/30/lessons/70128) | 월간 코드 챌린지 시즌1 | Java
+[음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501) | 월간 코드 챌린지 시즌2 | Java
 [없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051) | 월간 코드 챌린지 시즌3 | Java
-통계 | 총합 | 5문제
+[소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977) | Summer/Winter Coding(~2018) | Java
+[폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/12977) | 찾아라 프로그래밍 마에스터 | Java
+통계 | 총합 | 9문제
+</div>
 </div>
 </details>
 
