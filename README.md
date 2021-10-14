@@ -575,7 +575,8 @@
 [광고 삽입](https://programmers.co.kr/learn/courses/30/lessons/72414) | 2021 카카오 BLIND RECRUITMENT | Python3
 [카드 짝 맞추기](https://programmers.co.kr/learn/courses/30/lessons/72415) | 2021 카카오 BLIND RECRUITMENT | Python3
 [다단계 칫솔 판매](https://programmers.co.kr/learn/courses/30/lessons/77486) | 2021 Dev-Matching 웹 백엔드 개발자(상반기) | Python3
-통계 | 총합 | 6문제
+[블록 이동하기](https://programmers.co.kr/learn/courses/30/lessons/60063) | 2020 카카오 BLIND RECRUITMENT | Java
+통계 | 총합 | 7문제
 </div>
 </details>
 
