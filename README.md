@@ -506,8 +506,9 @@
 [없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051) | 월간 코드 챌린지 시즌3 | Java
 [소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977) | Summer/Winter Coding(~2018) | Java
 [폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/12977) | 찾아라 프로그래밍 마에스터 | Java
-통계 | 총합 | 9문제
-</div>
+[부족한 금액 계산하기](https://programmers.co.kr/learn/courses/30/lessons/82612) | 위클리 챌린지 1주차 | Java
+[상호 평가](https://programmers.co.kr/learn/courses/30/lessons/83201) | 위클리 챌린지 2주차 | Java
+통계 | 총합 | 11문제
 </div>
 </details>
 
@@ -577,7 +578,8 @@
 [카드 짝 맞추기](https://programmers.co.kr/learn/courses/30/lessons/72415) | 2021 카카오 BLIND RECRUITMENT | Python3
 [다단계 칫솔 판매](https://programmers.co.kr/learn/courses/30/lessons/77486) | 2021 Dev-Matching 웹 백엔드 개발자(상반기) | Python3
 [블록 이동하기](https://programmers.co.kr/learn/courses/30/lessons/60063) | 2020 카카오 BLIND RECRUITMENT | Java
-통계 | 총합 | 7문제
+[퍼즐 조각 채우기](https://programmers.co.kr/learn/courses/30/lessons/84021) | 위클리 챌린지 3주차 | Java
+통계 | 총합 | 8문제
 </div>
 </details>
 
