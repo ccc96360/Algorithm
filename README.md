@@ -558,10 +558,11 @@
 [괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502) | 월간 코드 챌린지 시즌2  | Java
 [2개 이하로 다른 비트](https://programmers.co.kr/learn/courses/30/lessons/77885) | 월간 코드 챌린지 시즌2  | Java
 [빛의 경로 사이클](https://programmers.co.kr/learn/courses/30/lessons/86052) | 월간 코드 챌린지 시즌3 | Java
+[n^2 배열 자르기](https://programmers.co.kr/learn/courses/30/lessons/87390) | 월간 코드 챌린지 시즌3 | Java
 [모음 사전](https://programmers.co.kr/learn/courses/30/lessons/84512) | 위클리 챌린지 5주차 | Java
 [입실 퇴실](https://programmers.co.kr/learn/courses/30/lessons/86048) | 위클리 챌린지 7주차 | Java
 [전력망을 둘로 나누기](https://programmers.co.kr/learn/courses/30/lessons/86971) | 위클리 챌린지 9주차 | Java
-통계 | 총합 | 43문제
+통계 | 총합 | 44문제
 </div>
 </details>
 
