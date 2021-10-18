@@ -520,6 +520,7 @@
 | --- | :---:| :---:|
 [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899#) | 연습문제 | Java
 [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626) | 연습문제 | Java
+[가장 큰 정사각형 찾기](https://programmers.co.kr/learn/courses/30/lessons/12905) | 연습문제 | Java
 [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) | 코딩테스트 연습 / 완전탐색 | Java
 [주식 가격](https://programmers.co.kr/learn/courses/30/lessons/42839) | 코딩테스트 연습 / 스택/큐 | Java
 [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746) | 코딩테스트 연습 / 정렬 | Java
@@ -562,7 +563,8 @@
 [모음 사전](https://programmers.co.kr/learn/courses/30/lessons/84512) | 위클리 챌린지 5주차 | Java
 [입실 퇴실](https://programmers.co.kr/learn/courses/30/lessons/86048) | 위클리 챌린지 7주차 | Java
 [전력망을 둘로 나누기](https://programmers.co.kr/learn/courses/30/lessons/86971) | 위클리 챌린지 9주차 | Java
-통계 | 총합 | 44문제
+[교점에 별 만들기](https://programmers.co.kr/learn/courses/30/lessons/86971) | 위클리 챌린지 10주차 | Java
+통계 | 총합 | 46문제
 </div>
 </details>
 
