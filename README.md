@@ -521,6 +521,7 @@
 [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899#) | 연습문제 | Java
 [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626) | 연습문제 | Java
 [가장 큰 정사각형 찾기](https://programmers.co.kr/learn/courses/30/lessons/12905) | 연습문제 | Java
+[올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909) | 연습문제 | Java
 [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) | 코딩테스트 연습 / 완전탐색 | Java
 [주식 가격](https://programmers.co.kr/learn/courses/30/lessons/42839) | 코딩테스트 연습 / 스택/큐 | Java
 [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746) | 코딩테스트 연습 / 정렬 | Java
@@ -536,6 +537,7 @@
 [(3차) 방금그곡](https://programmers.co.kr/learn/courses/30/lessons/17683) | 2018 카카오 BLIND RECRUITMENT  | Java
 [(3차) 압축](https://programmers.co.kr/learn/courses/30/lessons/17684) | 2018 카카오 BLIND RECRUITMENT  | Java
 [(3차) 파일명 정렬](https://programmers.co.kr/learn/courses/30/lessons/17686) | 2018 카카오 BLIND RECRUITMENT  | Java
+[(3차) n진수 게임](https://programmers.co.kr/learn/courses/30/lessons/17687) | 2018 카카오 BLIND RECRUITMENT  | Java
 [오픈 채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888) | 2019 카카오 BLIND RECRUITMENT  | Java
 [후보키](https://programmers.co.kr/learn/courses/30/lessons/42890) | 2019 카카오 BLIND RECRUITMENT  | Java
 [튜플](https://programmers.co.kr/learn/courses/30/lessons/64065) | 2019 카카오 개발자 겨울 인턴십 | Java
@@ -566,7 +568,7 @@
 [입실 퇴실](https://programmers.co.kr/learn/courses/30/lessons/86048) | 위클리 챌린지 7주차 | Java
 [전력망을 둘로 나누기](https://programmers.co.kr/learn/courses/30/lessons/86971) | 위클리 챌린지 9주차 | Java
 [교점에 별 만들기](https://programmers.co.kr/learn/courses/30/lessons/86971) | 위클리 챌린지 10주차 | Java
-통계 | 총합 | 48문제
+통계 | 총합 | 50문제
 </div>
 </details>
 
