@@ -525,6 +525,11 @@
 [다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911) | 연습문제 | Java
 [땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913) | 연습문제 | Java
 [숫자의 표현](https://programmers.co.kr/learn/courses/30/lessons/12924) | 연습문제 | Java
+[최대값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939) | 연습문제 | Java
+[최솟값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941) | 연습문제 | Java
+[피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945) | 연습문제 | Java
+[행렬의 곱셈](https://programmers.co.kr/learn/courses/30/lessons/12949) | 연습문제 | Java
+[N개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12953) | 연습문제 | Java
 [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) | 코딩테스트 연습 / 완전탐색 | Java
 [주식 가격](https://programmers.co.kr/learn/courses/30/lessons/42839) | 코딩테스트 연습 / 스택/큐 | Java
 [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746) | 코딩테스트 연습 / 정렬 | Java
@@ -572,7 +577,7 @@
 [전력망을 둘로 나누기](https://programmers.co.kr/learn/courses/30/lessons/86971) | 위클리 챌린지 9주차 | Java
 [교점에 별 만들기](https://programmers.co.kr/learn/courses/30/lessons/86971) | 위클리 챌린지 10주차 | Java
 [피로도](https://programmers.co.kr/learn/courses/30/lessons/87946) | 위클리 챌린지 | Java
-통계 | 총합 | 54문제
+통계 | 총합 | 59문제
 </div>
 </details>
 
