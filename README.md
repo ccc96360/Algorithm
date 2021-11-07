@@ -529,6 +529,7 @@
 [최솟값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941) | 연습문제 | Java
 [피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945) | 연습문제 | Java
 [행렬의 곱셈](https://programmers.co.kr/learn/courses/30/lessons/12949) | 연습문제 | Java
+[JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951) | 연습문제 | Java
 [N개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12953) | 연습문제 | Java
 [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) | 코딩테스트 연습 / 완전탐색 | Java
 [주식 가격](https://programmers.co.kr/learn/courses/30/lessons/42839) | 코딩테스트 연습 / 스택/큐 | Java
@@ -549,7 +550,7 @@
 [오픈 채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888) | 2019 카카오 BLIND RECRUITMENT  | Java
 [후보키](https://programmers.co.kr/learn/courses/30/lessons/42890) | 2019 카카오 BLIND RECRUITMENT  | Java
 [튜플](https://programmers.co.kr/learn/courses/30/lessons/64065) | 2019 카카오 개발자 겨울 인턴십 | Java
-[문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057) | 2020 카카오 BLIND RECRUITMENT | Python3
+[문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057) | 2020 카카오 BLIND RECRUITMENT | Python3, Java
 [괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058) | 2020 카카오 BLIND RECRUITMENT | Python3
 [수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257) | 2020 카카오 인턴십 | Python3
 [메뉴_리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411) | 2021 카카오 BLIND RECRUITMENT | Python3
@@ -577,7 +578,7 @@
 [전력망을 둘로 나누기](https://programmers.co.kr/learn/courses/30/lessons/86971) | 위클리 챌린지 9주차 | Java
 [교점에 별 만들기](https://programmers.co.kr/learn/courses/30/lessons/86971) | 위클리 챌린지 10주차 | Java
 [피로도](https://programmers.co.kr/learn/courses/30/lessons/87946) | 위클리 챌린지 | Java
-통계 | 총합 | 59문제
+통계 | 총합 | 60문제
 </div>
 </details>
 
